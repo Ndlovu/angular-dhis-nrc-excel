@@ -1,0 +1,49 @@
+<!doctype html>
+<html ng-app="app" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NRC Data Export and Import</title>
+    <link rel="shortcut icon" href="img/icons/hki-16.png" type="image/vnd.microsoft.icon">
+    <!--<link rel="icon" type="image/x-icon" href="img/favicon.ico">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="">
+
+    <link type="text/css" rel="stylesheet" href="../../../dhis-web-commons/font-awesome/css/font-awesome.min.css"/>
+    <link type="text/css" rel="stylesheet" media="screen" href="../../../dhis-web-commons/css/menu.css">
+</head>
+<body>
+<span us-spinner="{radius:30, width:8, length: 16}"></span>
+<div class="row" style="background-color:#3c3c3c;">
+    <div class="col-md-1"><img src="img/nrc30.png" class="img-responsive" style="padding: 5px"/></div>
+    <div class="col-md-3" style=" top: 12px; font-weight: bold; color: #fff;  font-size: 16px;">
+        DHIS2 Data Export/Import
+    </div>
+    <div class="col-md-5" style=" top: 12px; font-weight: bold; color: #fff;  font-size: 16px;" id="version"></div>
+    <div style="position:absolute;top:0;right:0;">
+        <div id="dhisDropDownMenu"></div>
+    </div>
+</div>
+
+<script>
+    window.dhis2 = window.dhis2 || {};
+    dhis2.settings = dhis2.settings || {};
+
+    var urlArray = window.location.pathname.split('/');
+    var apiIndex = urlArray.indexOf('api');
+
+    if (apiIndex > 1) {
+        dhis2.settings.baseUrl = urlArray[apiIndex - 1];
+    } else {
+        dhis2.settings.baseUrl = '';
+    }
+</script>
+<div class="container">
+    <ui-view></ui-view>
+</div>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="../../../dhis-web-commons/javascripts/dhis2/dhis2.translate.js"></script>
+<script type="text/javascript" src="../../../dhis-web-commons/javascripts/dhis2/dhis2.menu.js"></script>
+<script type="text/javascript" src="../../../dhis-web-commons/javascripts/dhis2/dhis2.menu.ui.js"></script>
+</body>
+</html>

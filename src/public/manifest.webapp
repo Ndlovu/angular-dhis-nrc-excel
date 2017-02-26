@@ -1,0 +1,29 @@
+{
+  "version":"1.0",
+  "name":"NRC Data Export-Import",
+  "description":"Used to import excel data into DHIS2",
+  "icons":{
+    "16":"img/icons/hki-16.png",
+    "48":"img/icons/hki-48.png",
+    "128":"img/icons/hki-128.png"
+  },
+  "developer":{
+    "url":"http://www.nrc.no",
+    "name":"HISP Uganda",
+    "company":"",
+    "email":""
+    },
+    "activities":{
+      "dhis":{
+        "href":"dhis",
+        "namespace":null
+      }
+    },
+    "folderName":null,
+    "baseUrl":null,
+    "key":null,
+    "launchUrl":null,
+    "launch_path":"index.html",
+    "installs_allowed_from":null,
+    "default_locale":"en"
+  }

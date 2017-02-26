@@ -1,0 +1,177 @@
+<!-- Nav tabs -->
+<uib-tabset active="active">
+    <uib-tab index="0">
+        <uib-tab-heading>
+            <i class="fa fa-home"></i> Home
+        </uib-tab-heading>
+    </uib-tab>
+    <uib-tab index="1">
+        <uib-tab-heading>
+            <i class="fa fa-bars"></i> Export Dataset
+        </uib-tab-heading>
+        <form action="" style="margin-top: 10px;">
+            <div class="row" style="border-bottom: dashed 2px black">
+                <div class="col-sm-6">
+                    <div class="form-group row">
+                        <label class="col-sm-4 col-form-label">Dataset</label>
+                        <div class="col-sm-8">
+                            <ui-select ng-model="home.selectedDataset" ng-change="home.showOrganizationUnits()">
+                                <ui-select-match placeholder="Select Dataset">
+                                    <span ng-bind="$select.selected.displayName"></span>
+                                </ui-select-match>
+                                <ui-select-choices
+                                        repeat="item in (home.dataSets | filter: $select.search) track by item.id">
+                                    <span ng-bind="item.displayName"></span>
+                                </ui-select-choices>
+                            </ui-select>
+
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-sm-4 col-form-label">Organization</label>
+                        <div class="col-sm-8">
+
+                            <ui-select ng-model="home.selectedOrganisationUnit" ng-change="home.showPeriods()" required>
+                                <ui-select-match>
+                                    <span ng-bind="$select.selected.name"></span>
+                                </ui-select-match>
+                                <ui-select-choices
+                                        repeat="item in (home.selectedDataset.organisationUnits | filter: $select.search) track by item.id">
+                                    <span ng-bind="item.name"></span>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label class="col-sm-4 col-form-label">Period</label>
+                        <div class="col-sm-4">
+                            <select class="form-control" required
+                                    ng-options="period as period.name for period in home.dataPeriods"
+                                    ng-model="home.selectedPeriod" ng-change="home.showOthers()">
+                                <option selected value="">---- Select Period ----</option>
+                            </select>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <button class="btn btn-default"
+                                    ng-click="home.previousYear()"
+                                    type="button">
+                                Prev
+                            </button>
+                        </div>
+                        <div class="col-sm-2">
+                            <button class="btn btn-default"
+                                    ng-click="home.nextYear()"
+                                    type="button">Next
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group row" ng-repeat="datasetCategory in home.datasetCategories"
+                         ng-show="home.showDatasetCategories">
+                        <label class="col-sm-4 col-form-label">{{datasetCategory.label}}</label>
+                        <div class="col-sm-8">
+
+                            <ui-select ng-model="home.selectedDatasetCategories[datasetCategory.label]"
+                                       ng-change="home.displayData($last)" required>
+                                <ui-select-match>
+                                    <span ng-bind="$select.selected.label"></span>
+                                </ui-select-match>
+                                <ui-select-choices
+                                        repeat="item in (datasetCategory.categoryOptions | filter: $select.search) track by item.id">
+                                    <span ng-bind="item.label"></span>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div style="overflow-y: scroll;overflow-x: scroll;max-height: 500px;">
+                <table class="table table-bordered" id="table" style="margin-top: 10px;">
+                    <tr ng-repeat="tr in home.table | limitTo : home.totalRows:home.rowToRemove">
+                    <!--<tr ng-repeat="tr in home.table">-->
+                        <td ng-repeat="td in tr" colspan="{{td.colSpan}}" rowspan="{{td.rowSpan}}"
+                            ng-class="td.css">
+                            {{td.colData}}
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <input type="button" value="Export Dataset" ng-click="home.download()"
+                   ng-show="home.table.length  > 0 || home.htmlCode"
+                   class="btn btn-primary submit-button">
+        </form>
+
+    </uib-tab>
+    <uib-tab index="2">
+        <uib-tab-heading>
+            <i class="fa fa-bars"></i> Import Dataset
+        </uib-tab-heading>
+        <form class="form-validation" ng-submit="home.onSubmit()" style="margin-top: 10px;">
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <input type="file" ng-model="home.excel" base-sixty-four-input
+                           class="form-control btn btn-default"
+                           required>
+                </div>
+                <div class="col-sm-3">
+                    <button type="submit" class="btn btn-primary submit-button"
+                            ng-show="home.cellsGot.length > 0">Submit Data
+                    </button>
+                    &nbsp;&nbsp;
+                    <button type="reset" class="btn btn-success submit-button" ng-click="home.cellsGot = []"
+                            ng-show="home.cellsGot.length">
+                        Reset
+                    </button>
+                </div>
+            </div>
+
+            <table class="table table-bordered" ng-show="home.cellsGot.length > 0">
+                <thead>
+                <tr>
+                    <th>Cell</th>
+                    <th>
+                        Organization Unit
+                    </th>
+                    <th>
+                        Data Element
+                    </th>
+                    <th>
+                        Period
+                    </th>
+                    <th>
+                        Category
+                    </th>
+                    <th>
+                        Value
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="cell in home.cellsGot">
+                    <td>{{cell.cell}}</td>
+                    <td>
+                        {{home.importedOrganisationUnit.name}}
+                    </td>
+                    <td>
+                        {{home.dataElementsFound[cell.dataElement][0].displayName}}
+                    </td>
+                    <td>
+                        {{home.importedPeriod.name}}
+                    </td>
+                    <td>
+                        {{home.categoryOptionCombosFound[cell.categoryOptionCombo][0].displayName}}
+                    </td>
+                    <td>
+                        {{cell.cellValue.v}}
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </form>
+    </uib-tab>
+</uib-tabset>

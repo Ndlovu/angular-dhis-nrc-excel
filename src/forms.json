@@ -1,0 +1,3557 @@
+{
+  "label": "COFE1512: SDC Emergency Response",
+  "subtitle": "COFE1512",
+  "options": {
+    "periodType": "Quarterly",
+    "openFuturePeriods": 4,
+    "expiryDays": 0
+  },
+  "categoryCombo": {
+    "id": "GmXXE8fiCK5",
+    "categories": [
+      {
+        "id": "MRwzyV0kXv9",
+        "label": "Project",
+        "categoryOptions": [
+          {
+            "id": "EAyZFvaKksr",
+            "label": "JOFM1403 (DFID)",
+            "startDate": "2014-08-26T00:00:00.000",
+            "endDate": "2017-01-29T00:00:00.000"
+          },
+          {
+            "id": "lLp6N9x6xrV",
+            "label": "JOFM1502 (Global Affairs Canada (GAC))",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-29T00:00:00.000"
+          },
+          {
+            "id": "YXDx4HhnHRE",
+            "label": "JOFM1505 (BPRM)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2017-03-01T00:00:00.000"
+          },
+          {
+            "id": "k13kVNm55Sr",
+            "label": "JOFM1506 (UNICEF)",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2017-07-01T00:00:00.000"
+          },
+          {
+            "id": "RhfhEnhNRt2",
+            "label": "JOFM1507 (NMFA (HUM))",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2017-07-01T00:00:00.000"
+          },
+          {
+            "id": "M1j1VVmTN4H",
+            "label": "JOFM1508 (NRC PRIVATE SPONSORS)",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2017-03-01T00:00:00.000"
+          },
+          {
+            "id": "peUIQDL8jc9",
+            "label": "JOFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-07-01T00:00:00.000"
+          },
+          {
+            "id": "rX65Z2IDViB",
+            "label": "JOFM1602 (Sida)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-07-01T00:00:00.000"
+          },
+          {
+            "id": "zLudu8i6KQx",
+            "label": "JOFM1603 (UNICEF)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-15T00:00:00.000"
+          },
+          {
+            "id": "AgJcVn6BbU6",
+            "label": "JOFM1605 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-29T00:00:00.000"
+          },
+          {
+            "id": "JYBFrPqDMbp",
+            "label": "JOFM1608 (BPRM)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2018-03-01T00:00:00.000"
+          },
+          {
+            "id": "rQ3ttCSLSD8",
+            "label": "JOFM1613 (OCHA)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2017-08-01T00:00:00.000"
+          },
+          {
+            "id": "PD3MAnKh4a9",
+            "label": "JOFM1615 (OCHA)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2017-08-01T00:00:00.000"
+          },
+          {
+            "id": "v7prV1ekNq5",
+            "label": "JOFM1617 (Qatar Eid Foundation)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2018-01-29T00:00:00.000"
+          },
+          {
+            "id": "iAFbW9ldilO",
+            "label": "JOFM1701 (BPRM)",
+            "startDate": "2017-09-01T00:00:00.000",
+            "endDate": "2019-03-01T00:00:00.000"
+          },
+          {
+            "id": "ykyOMRaUw24",
+            "label": "AFFE1507  (ECHO)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2017-02-27T00:00:00.000"
+          },
+          {
+            "id": "VHqcQwn3cVW",
+            "label": "AFFM1302 (Norad Education GBV and ICLA)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "gspzyttMOzN",
+            "label": "AFFM1502 (DEVCO Regional AUP)",
+            "startDate": "2015-03-01T00:00:00.000",
+            "endDate": "2018-02-27T00:00:00.000"
+          },
+          {
+            "id": "w3DvOCqK55W",
+            "label": "AFFM1503 (ECHO)",
+            "startDate": "2015-03-15T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "pZnZaHIxEOI",
+            "label": "AFFM1506  (OCHA)",
+            "startDate": "2015-06-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "soiN4IaBwbr",
+            "label": "AFFM1601 (ECHO Emergency)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-10-27T00:00:00.000"
+          },
+          {
+            "id": "xxhDxyT8kCD",
+            "label": "AFFM1603 (DANIDA OLD code AFFM1402 from last years",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "lPmeZHpM8De",
+            "label": "AFFM1604 (NMFA (HUM) )",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "L5Q5XKqjUmw",
+            "label": "AFFM1605 (Sida HUM Afghanistan 2016)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "DO7VGzWV0Sq",
+            "label": "AFFM1608 (NORAD 2016)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "f3JaCQp1FoY",
+            "label": "AFFM1616 (ECHO COP 2016)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-09-29T00:00:00.000"
+          },
+          {
+            "id": "kVYSCN06dzn",
+            "label": "AFFM1618 (NRC/DFID innovation fund)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "oeksmkCPGQI",
+            "label": "AFFM1620 (NORAD Maimana)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "m3IE0rynHqP",
+            "label": "AFFM1623  (OCHA)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "jYsvMC3nUbX",
+            "label": "AFFM1624 (OCHA)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "J7pcSt4U0zQ",
+            "label": "AFFM1625  (ECHO)",
+            "startDate": "2016-07-15T00:00:00.000",
+            "endDate": "2017-10-11T00:00:00.000"
+          },
+          {
+            "id": "GkEbiEDAGK8",
+            "label": "AFFM1626 (NMFA (HUM) )",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "CK19MyWlIxW",
+            "label": "AFFW1502 (OCHA)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-12-27T00:00:00.000"
+          },
+          {
+            "id": "YbDXKHxtFeF",
+            "label": "AFFY1513 (OCHA) ",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-11-27T00:00:00.000"
+          },
+          {
+            "id": "zAfc1Zthu7J",
+            "label": "AFFY1517  (OCHA)",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2016-09-12T00:00:00.000"
+          },
+          {
+            "id": "C28ls8kIXHK",
+            "label": "COFE1303 (DFTAD - Educational project Narino)",
+            "startDate": "2013-04-01T00:00:00.000",
+            "endDate": "2018-06-30T00:00:00.000"
+          },
+          {
+            "id": "rdhouAXOg6o",
+            "label": "COFE1402 (DFTAD Emergency Response - Colombia)",
+            "startDate": "2014-01-01T00:00:00.000",
+            "endDate": "2015-03-31T00:00:00.000"
+          },
+          {
+            "id": "DXbwf6aucbv",
+            "label": "COFE1406 (ECHO - Protection and humanitarian assistance to IDPs in Colombia)",
+            "startDate": "2014-06-01T00:00:00.000",
+            "endDate": "2015-06-30T00:00:00.000"
+          },
+          {
+            "id": "oI5B5dGun63",
+            "label": "COFE1407 (UNICEF - Child Protection in Emergencies - New CERF - Tumaco)",
+            "startDate": "2014-07-01T00:00:00.000",
+            "endDate": "2015-03-31T00:00:00.000"
+          },
+          {
+            "id": "WOr5du2KC8E",
+            "label": "COFE1501 (Norad - Education in Colombia)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2015-12-31T00:00:00.000"
+          },
+          {
+            "id": "VVlKzCsHDT4",
+            "label": "COFE1502 (DFTAD Match - Education in South West)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-03-31T00:00:00.000"
+          },
+          {
+            "id": "y74ulT452OK",
+            "label": "COFE1504 (Sida - Education in Emergency)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2015-12-31T00:00:00.000"
+          },
+          {
+            "id": "gJkTn5iyPcJ",
+            "label": "COFE1506 (OCHA - Education in Emergency ERF San Calixto)",
+            "startDate": "2015-02-17T00:00:00.000",
+            "endDate": "2015-12-30T00:00:00.000"
+          },
+          {
+            "id": "KMqu4wmBnUZ",
+            "label": "COFE1507 (UNDP - Education in Emergency CERF Cauca PNUD)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2015-12-30T00:00:00.000"
+          },
+          {
+            "id": "wKcx77SEOjf",
+            "label": "COFE1512 (SDC - Response to Emergency in Border with Venezuela)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2016-09-30T00:00:00.000"
+          },
+          {
+            "id": "zG8C7jMPyyL",
+            "label": "COFE1601: (NORAD) Access to education and training for out of school IDP children and youth in Colombia",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "UBrRnrVbZ3c",
+            "label": "COFL1404 (BPRM - Venezuela)",
+            "startDate": "2014-09-29T00:00:00.000",
+            "endDate": "2016-09-29T00:00:00.000"
+          },
+          {
+            "id": "dAt2i7XmCdE",
+            "label": "COFL1414 (ECHO - Venezuela)",
+            "startDate": "2014-06-01T00:00:00.000",
+            "endDate": "2015-06-30T00:00:00.000"
+          },
+          {
+            "id": "VZAa4zBYzS9",
+            "label": "COFL1505 (BPRM - Ven Legal Aid YR2)",
+            "startDate": "2015-09-29T00:00:00.000",
+            "endDate": "2016-09-28T00:00:00.000"
+          },
+          {
+            "id": "XVDiG63ymPh",
+            "label": "COFL1510 (UNHCR - Panama)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2015-12-31T00:00:00.000"
+          },
+          {
+            "id": "HP21YT3lU0C",
+            "label": "COFL1513 (UNHCR Venezuela)",
+            "startDate": "2015-08-01T00:00:00.000",
+            "endDate": "2015-12-31T00:00:00.000"
+          },
+          {
+            "id": "tGB3xt1mgx2",
+            "label": "COFL1602: (UNHCR) Provisión del servicio de información, orientación y asistencia legal a personas solicitantes y refugiadas en Panamá",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "vtLveHgReZo",
+            "label": "COFL1605 (UNHCR) Fortalecimiento de capacidades en materia de desplazamiento interno en Honduras",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "UzMSQO0PjdS",
+            "label": "COFM1403 (Regional Dfid ICLA)",
+            "startDate": "2014-04-01T00:00:00.000",
+            "endDate": "2015-03-31T00:00:00.000"
+          },
+          {
+            "id": "EYiU7y5R8dk",
+            "label": "COFM1501 (Regional NMFA ICLA)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2015-12-31T00:00:00.000"
+          },
+          {
+            "id": "oTL4refCiH1",
+            "label": "COFM1502 (Regional Dfid ICLA)",
+            "startDate": "2015-03-30T00:00:00.000",
+            "endDate": "2017-03-30T00:00:00.000"
+          },
+          {
+            "id": "K2uHtJKeHIO",
+            "label": "COFM1503 (ECHO Ven/Col)",
+            "startDate": "2015-06-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "C4VmySoFUZ1",
+            "label": "COFM1506 (ECHO- Children of Peace Hon/Col)",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "kmx4FsR9zKl",
+            "label": "COFM1507 (BPRM - Education in Emergency/ICLA )",
+            "startDate": "2015-09-29T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "sSwbY1jx9ZZ",
+            "label": "COFM1601: (NMFA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "PqIpoTV4Jra",
+            "label": "COFM1602: (SIDA) Education and Gender Based Violence (GBV)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "V0pUnyWp0dM",
+            "label": "COFS1401 (OCHA - Colombia)",
+            "startDate": "2014-10-20T00:00:00.000",
+            "endDate": "2015-08-30T00:00:00.000"
+          },
+          {
+            "id": "YxigvubGUms",
+            "label": "COFY1502 (Sida GBV Pilot)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2015-12-31T00:00:00.000"
+          },
+          {
+            "id": "RfAc9OGCp24",
+            "label": "COFY1504 (Support in the DIPECHO project implementation)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2015-07-31T00:00:00.000"
+          },
+          {
+            "id": "YBW3C4uGBNU",
+            "label": "PSFL1501 (ECHO-Legal Aid)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-08-27T00:00:00.000"
+          },
+          {
+            "id": "VziRkvV1jmR",
+            "label": "PSFL1511 (DEVCO Legal AID Programme)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2017-10-27T00:00:00.000"
+          },
+          {
+            "id": "CxF0bRPzuUX",
+            "label": "PSFL1516 (AECID Consortuim)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-08-27T00:00:00.000"
+          },
+          {
+            "id": "Hod8D7y2gqZ",
+            "label": "PSFL1517 (EU  Belguim)",
+            "startDate": "2015-09-24T00:00:00.000",
+            "endDate": "2016-12-20T00:00:00.000"
+          },
+          {
+            "id": "DFoaoWg3rq4",
+            "label": "PSFL1520 (UNHCR)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2017-01-27T00:00:00.000"
+          },
+          {
+            "id": "O4BzO34ETfi",
+            "label": "PSFM1510 (DFID Legal aid programmes)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "e13yHQi95e3",
+            "label": "PSFM1601 (ECHO WB)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "EVoATBsAZeJ",
+            "label": "PSFM1602 (Sida HUM Palestine 2016)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "eAI0fh34zEf",
+            "label": "PSFM1603 (NMFA ICLA/Shelter/Education)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "fhGC1JmSVXO",
+            "label": "PSFM1604 (NORAD Education)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "MLTmpetIs9u",
+            "label": "PSFM1606 (PORTICUS Education - Better Learning Planning)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "fzriRX9rJEO",
+            "label": "PSFM1607 (SDC  AIDA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2018-06-29T00:00:00.000"
+          },
+          {
+            "id": "wA4aMUI4jJU",
+            "label": "PSFM1610 (DFID ICLA WB & Gaza)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "uEZWEgvExPz",
+            "label": "PSFM1612 (ETF funds - UDOC Gaza)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "J16skwgeDcF",
+            "label": "PSFM1613 (CCCM GC / NORCAP)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "RJA1awaHzRf",
+            "label": "PSFM1614 (UN Habitant ICLA Gaza)",
+            "startDate": "2015-10-15T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "dKAbo0s4zPz",
+            "label": "PSFM1615 (NRC AIDA Membership)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2018-06-29T00:00:00.000"
+          },
+          {
+            "id": "Rkc4Na4LU8I",
+            "label": "PSFM1616 (ECHO Shelter/UDOC/ICLA)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "G282KzjtiXJ",
+            "label": "PSFM1617 (NRC PRIVATE) Education West Bank",
+            "startDate": "2015-12-31T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "bfbXhNeem1g",
+            "label": "PSFM1618 (ECHO ICLA-EDUCATION)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2018-01-27T00:00:00.000"
+          },
+          {
+            "id": "IezGL0cGVwp",
+            "label": "PSFM1620 (PORTICUS -Improved Education)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "SrngetFuLdn",
+            "label": "PSFM1621 (OCHA HPF Wash Gaza)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "sBNmCns8DRk",
+            "label": "PSFM1622 (OCHA HPF ICLA WB)",
+            "startDate": "2016-01-02T00:00:00.000",
+            "endDate": "2016-12-28T00:00:00.000"
+          },
+          {
+            "id": "l9wHw4lNNXO",
+            "label": "PSFM1623 (OCHA HPF Shelter Gaza)",
+            "startDate": "2016-01-31T00:00:00.000",
+            "endDate": "2016-06-29T00:00:00.000"
+          },
+          {
+            "id": "UYcnl0oLrSj",
+            "label": "PSFM1625 (Norad MFA)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "DdNK7cbye94",
+            "label": "PSFM1627 (SDC UDOC Gaza)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-10-27T00:00:00.000"
+          },
+          {
+            "id": "ydEAJPESZaM",
+            "label": "PSFM1629 (KFW) ",
+            "startDate": "2015-12-31T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "QxffdUgG7cZ",
+            "label": "PSFM1631 (ECHO Luxembourg MFA)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "kEDjwKRGdQx",
+            "label": "PSFS1502 (ECHO)",
+            "startDate": "2015-02-01T00:00:00.000",
+            "endDate": "2016-07-29T00:00:00.000"
+          },
+          {
+            "id": "ge99GDcWNQ8",
+            "label": "PSFS1503 (AECID Gaza)",
+            "startDate": "2016-02-02T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "SNClgHINaSl",
+            "label": "PSFY1401 (Young Women Leadership in Gaza)",
+            "startDate": "2014-11-01T00:00:00.000",
+            "endDate": "2016-11-27T00:00:00.000"
+          },
+          {
+            "id": "PTGYdxWF4kB",
+            "label": "PSFY1501 (UNICEF Protection)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "PEmywT60YDa",
+            "label": "PSFY1502 (Cooperate in Strengthening of a national child protection and GBV systems in Gaza)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "Nq4rv4nn7k1",
+            "label": "IQFE1502 (UNICEF)",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2016-06-30T00:00:00.000"
+          },
+          {
+            "id": "i6gsQe52AA3",
+            "label": "IQFE1506 (NRC)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2016-03-31T00:00:00.000"
+          },
+          {
+            "id": "IU5j5tmB12O",
+            "label": "IQFM1502 (ECHO)",
+            "startDate": "2015-04-16T00:00:00.000",
+            "endDate": "2016-06-30T00:00:00.000"
+          },
+          {
+            "id": "uuennxZyheN",
+            "label": "IQFM1505 (BPRM)",
+            "startDate": "2015-09-29T00:00:00.000",
+            "endDate": "2016-09-28T00:00:00.000"
+          },
+          {
+            "id": "I6X4b8wc6Th",
+            "label": "IQFM1506 (BPRM)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2016-08-31T00:00:00.000"
+          },
+          {
+            "id": "RgeB3Wl8EN0",
+            "label": "IQFM1507 (OFDA)",
+            "startDate": "2015-06-01T00:00:00.000",
+            "endDate": "2016-08-31T00:00:00.000"
+          },
+          {
+            "id": "dEG8RaAoDEE",
+            "label": "IQFM1508 (Sida)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2016-09-30T00:00:00.000"
+          },
+          {
+            "id": "PhiV34ERa1s",
+            "label": "IQFM1511 (SDC)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2016-09-30T00:00:00.000"
+          },
+          {
+            "id": "B5MasgkXuuv",
+            "label": "IQFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "bZ724TUk5lC",
+            "label": "IQFM1603 (ECHO)",
+            "startDate": "2016-06-15T00:00:00.000",
+            "endDate": "2017-02-28T00:00:00.000"
+          },
+          {
+            "id": "AwhDrkXOtj8",
+            "label": "IQFM1604 (BPRM)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2018-08-31T00:00:00.000"
+          },
+          {
+            "id": "bl6Uf7MkjsK",
+            "label": "IQFM1607 (UNICEF)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2016-06-30T00:00:00.000"
+          },
+          {
+            "id": "kRleseySCQn",
+            "label": "IQFM1608 (WFP)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2016-06-30T00:00:00.000"
+          },
+          {
+            "id": "A46zQiDCr2R",
+            "label": "IQFM1609 (Sida)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "yuhhygQE7eE",
+            "label": "IQFM1613 (Sida)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2016-08-31T00:00:00.000"
+          },
+          {
+            "id": "LdjhNSmHIvd",
+            "label": "IQFM1614 (OCHA)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2016-09-30T00:00:00.000"
+          },
+          {
+            "id": "mRoOvqE0uI8",
+            "label": "IQFM1616 (ECHO)",
+            "startDate": "2016-06-30T00:00:00.000",
+            "endDate": "2017-03-30T00:00:00.000"
+          },
+          {
+            "id": "SCTiWWYNa19",
+            "label": "IQFM1617 (NRC)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2016-09-30T00:00:00.000"
+          },
+          {
+            "id": "etktmZ0bmEy",
+            "label": "IQFM1618 (UNHCR)",
+            "startDate": "2016-02-29T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "XmRXXFXd51V",
+            "label": "IQFM1620 (OCHA)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "ZlykjrIaURv",
+            "label": "IQFM1622 (BDRL)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2018-08-31T00:00:00.000"
+          },
+          {
+            "id": "ZrKWTtAQFmk",
+            "label": "IQFM1623 (OCHA)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-05-31T00:00:00.000"
+          },
+          {
+            "id": "oJUmSbPI0d0",
+            "label": "IQFM1624 (UNICEF)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "E3ulyLmEd7P",
+            "label": "IQFM1630 (SIDA)",
+            "startDate": "2016-05-31T00:00:00.000",
+            "endDate": "2017-03-30T00:00:00.000"
+          },
+          {
+            "id": "jDa7DKkAjCh",
+            "label": "IQFS1512 (OCHA)",
+            "startDate": "2015-10-05T00:00:00.000",
+            "endDate": "2016-05-05T00:00:00.000"
+          },
+          {
+            "id": "Zy261o0KLZY",
+            "label": "IQFS1601 (UNHCR)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2016-06-30T00:00:00.000"
+          },
+          {
+            "id": "epbeulydif8",
+            "label": "IQFW1503 (UNICEF)",
+            "startDate": "2015-11-15T00:00:00.000",
+            "endDate": "2016-11-14T00:00:00.000"
+          },
+          {
+            "id": "xeGzNrGnv4F",
+            "label": "IQFW1504 (OCHA)",
+            "startDate": "2015-10-10T00:00:00.000",
+            "endDate": "2016-06-10T00:00:00.000"
+          },
+          {
+            "id": "kOYLJdkdR02",
+            "label": "IQFY1409 (OTHER FG)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-05-30T00:00:00.000"
+          },
+          {
+            "id": "LjZ4qqG57RT",
+            "label": "IQFY1518 (GAC)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "PCZUuQUtdG1",
+            "label": "IQFY1519 (Sida)",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2016-03-31T00:00:00.000"
+          },
+          {
+            "id": "TQecyAiLX52",
+            "label": "JOFS1503 (UNHCR)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-08-29T00:00:00.000"
+          },
+          {
+            "id": "bWpcx46KtRB",
+            "label": "JOFS1506 (DEVCO (old EuropeAid))",
+            "startDate": "2015-02-01T00:00:00.000",
+            "endDate": "2017-08-01T00:00:00.000"
+          },
+          {
+            "id": "OOPf7OZjOYy",
+            "label": "JOFS1509 (OCHA)",
+            "startDate": "2015-08-25T00:00:00.000",
+            "endDate": "2016-07-25T00:00:00.000"
+          },
+          {
+            "id": "QH2BNLjOYEu",
+            "label": "JOFS1513 (ECHO)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2016-09-29T00:00:00.000"
+          },
+          {
+            "id": "WiVx3LriqNa",
+            "label": "JOFS1514 (OCHA)",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2016-09-29T00:00:00.000"
+          },
+          {
+            "id": "LzqDmgd4kKX",
+            "label": "JOFS1601 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-07-01T00:00:00.000"
+          },
+          {
+            "id": "KZZkXubsNvC",
+            "label": "UAFM1601: (NMFA HUM)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "XAONkpF8hgK",
+            "label": "UAFM1603: (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "EtbGQWgOCP5",
+            "label": "UAFM1604: (ECHO)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "AwXY7vYbqaf",
+            "label": "UAFY1503: (DFID) Emergency Response DonBas",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-03-31T00:00:00.000"
+          },
+          {
+            "id": "zSsSIQwbsvx",
+            "label": "MLFE1502 (OTHER FOREIGN GOVERNMENTS)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2017-01-27T00:00:00.000"
+          },
+          {
+            "id": "WgSW4oowKSF",
+            "label": "MLFE1506 (UNICEF)",
+            "startDate": "2015-12-14T00:00:00.000",
+            "endDate": "2017-05-13T00:00:00.000"
+          },
+          {
+            "id": "BytVLR3BtfY",
+            "label": "MLFE1508 (TELETHON)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2017-04-29T00:00:00.000"
+          },
+          {
+            "id": "vbNBzvxwpKN",
+            "label": "MLFE1509 (NRC PRIVATE SPONSORS)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-11-27T00:00:00.000"
+          },
+          {
+            "id": "Wk4anZxOQcx",
+            "label": "MLFF1502 (WFP)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "TPf4OiOPOZz",
+            "label": "MLFL1503 (DFID)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "EOrh1Wlwuow",
+            "label": "MLFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "dWACRELrXvf",
+            "label": "MLFM1602 (Sida)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "KlozqEOH9us",
+            "label": "MLFM1604 (WFP)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "rt5XKEGgFXn",
+            "label": "MLFM1605 (DFID)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "OIx8Xb4GELT",
+            "label": "MLFM1607 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "K6ZO5xVe71y",
+            "label": "MLFM1609 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "IpWwJmQCZl7",
+            "label": "MLFM1611 (ECHO)",
+            "startDate": "2016-02-22T00:00:00.000",
+            "endDate": "2017-07-21T00:00:00.000"
+          },
+          {
+            "id": "HwRr4JzDPip",
+            "label": "MLFM1612 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "ihGSMbgESEi",
+            "label": "MLFM1613 (OTHER EU))",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2020-01-27T00:00:00.000"
+          },
+          {
+            "id": "zD58vOVrFdv",
+            "label": "MLFM1615 (UNICEF)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "cyoXLTfbKaJ",
+            "label": "MLFM1617 (UNICEF)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "USHSnuLGLzW",
+            "label": "MLFM1618 (Trust Fund)",
+            "startDate": "2017-01-01T00:00:00.000",
+            "endDate": "2020-06-28T00:00:00.000"
+          },
+          {
+            "id": "ho6unaS7Rj9",
+            "label": "MLFM1619 (FFP)",
+            "startDate": "2016-10-01T00:00:00.000",
+            "endDate": "2020-03-28T00:00:00.000"
+          },
+          {
+            "id": "yPqauwOw0OV",
+            "label": "MLFS1508 (Sida)",
+            "startDate": "2015-10-15T00:00:00.000",
+            "endDate": "2016-08-12T00:00:00.000"
+          },
+          {
+            "id": "fXvYsGT9hsA",
+            "label": "MLFY1401 (TELETHON)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "LkL9QZFve2c",
+            "label": "MLFY1502 (DFID)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "fbwc32UCJ7B",
+            "label": "MLFY1504 (USAID (OFDA))",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2016-12-27T00:00:00.000"
+          },
+          {
+            "id": "POYxGJ3khEL",
+            "label": "IQFM1509 (NMFA (HUM))",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-05-31T00:00:00.000"
+          },
+          {
+            "id": "zrM1TzP4Bvc",
+            "label": "IQFM1510 (NMFA (HUM))",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-04-30T00:00:00.000"
+          },
+          {
+            "id": "mvAaOFhQuQF",
+            "label": "IQFM1602 (OFDA)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "P66sws8MFY4",
+            "label": "IQFM1619 (ECHO)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "Za7e8OSooZZ",
+            "label": "IQFM1628 (GIZ)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "NKKH1bm1NUl",
+            "label": "IQFM1632 (WFP)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "qwYagg1cVWv",
+            "label": "IQFM1633 (UNICEF)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "aPSzNmYCMOe",
+            "label": "IQFM1634 (UNFPA)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "BPiDbMSUFcF",
+            "label": "IQFM1636 (French Government)",
+            "startDate": "2016-07-31T00:00:00.000",
+            "endDate": "2017-09-11T00:00:00.000"
+          },
+          {
+            "id": "CJSiB9MRrXB",
+            "label": "IQFY1507 (GAC)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-09-26T00:00:00.000"
+          },
+          {
+            "id": "ZuUGImXI52p",
+            "label": "IQFM1611 (BPRM)",
+            "startDate": "2016-09-29T00:00:00.000",
+            "endDate": "2018-04-30T00:00:00.000"
+          },
+          {
+            "id": "jU4SUNRkDL0",
+            "label": "IQFM1635 (NMFA)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2017-05-31T00:00:00.000"
+          },
+          {
+            "id": "bzisceOQGYt",
+            "label": "SSFE1511 (OTHER FOREIGN GOV)",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "lcwJkcDHG9A",
+            "label": "SSFE1606 (WFP)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "suCsjmkLnGm",
+            "label": "SSFF1407 (DEVCO (old EuropeAid))",
+            "startDate": "2014-05-01T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "aLYjm2ZIEtY",
+            "label": "SSFF1511 (OTHER FOREIGN GOV)",
+            "startDate": "2015-07-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "SJZrNdw2wCK",
+            "label": "SSFF1516 (OTHER UN)",
+            "startDate": "2015-08-01T00:00:00.000",
+            "endDate": "2017-01-31T00:00:00.000"
+          },
+          {
+            "id": "PgqzyTP40Wl",
+            "label": "SSFF1520 (WFP)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "G9E9Aymcpta",
+            "label": "SSFF1522 (WFP)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "oTRzM3m2MPH",
+            "label": "SSFF1601 (WFP)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2107-06-29T00:00:00.000"
+          },
+          {
+            "id": "tybeM24itbh",
+            "label": "SSFF1603 (OTHER UN)",
+            "startDate": "2016-05-15T00:00:00.000",
+            "endDate": "2017-03-14T00:00:00.000"
+          },
+          {
+            "id": "gYHe1H9ZjWC",
+            "label": "SSFF1606 (UNDP)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "lWAPSsuTPaq",
+            "label": "SSFF1608 (OTHER UN)",
+            "startDate": "2016-01-29T00:00:00.000",
+            "endDate": "2016-09-11T00:00:00.000"
+          },
+          {
+            "id": "IFpsCtC4U4Q",
+            "label": "SSFF1610 (OTHER UN)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-11-26T00:00:00.000"
+          },
+          {
+            "id": "JYc4uF0ZSd2",
+            "label": "SSFF1611 (OTHER UN)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "h7ve20PA7xQ",
+            "label": "SSFL1504 (DFID)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "bZWJddKtGHM",
+            "label": "SSFL1505 (OTHER FOREIGN GOV)",
+            "startDate": "2015-11-15T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "PKH4I9MKdkS",
+            "label": "SSFL1604 (DFID)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "RrBQPnDzFBR",
+            "label": "SSFM1408 (GAP/REG Norad)",
+            "startDate": "2014-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "NT2C99Wj9c2",
+            "label": "SSFM1504 (NMFA (HUM))",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "p2oSGGLWlwk",
+            "label": "SSFM1508 (UNICEF)",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "PN2ngK6pwU8",
+            "label": "SSFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "tNF0MZ0RCGc",
+            "label": "SSFM1602 (Sida)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "FbHLPEqWmMS",
+            "label": "SSFM1603 (Norad (non GAP))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "lRZuq3FWcBn",
+            "label": "SSFM1604 (ECHO)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "IwXtCjtMLLR",
+            "label": "SSFM1606 (UNICEF)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "KR4ccUbQtne",
+            "label": "SSFM1608 (OTHER FOREIGN CO/ORGS)",
+            "startDate": "2016-02-04T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "IQQwMo8C4ip",
+            "label": "SSFM1609 (Norad (non GAP))",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "keVsN0kOS8Z",
+            "label": "SSFM1610 (UNHCR)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-03-14T00:00:00.000"
+          },
+          {
+            "id": "YE202JRuaV2",
+            "label": "SSFM1611 (NRC OWN)",
+            "startDate": "2016-01-03T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "fHN8GYdSBnG",
+            "label": "SSFY1505 (SDC)",
+            "startDate": "2015-06-01T00:00:00.000",
+            "endDate": "2016-11-27T00:00:00.000"
+          },
+          {
+            "id": "uR5zn2ldK1q",
+            "label": "SSFY1506 (Sida)",
+            "startDate": "2015-08-15T00:00:00.000",
+            "endDate": "2016-07-29T00:00:00.000"
+          },
+          {
+            "id": "wcFTN31EUKW",
+            "label": "SSFY1601 (DFID)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "kU15Otlpvih",
+            "label": "SSFY1602 (TELETHON)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "NoOaSHuTP6D",
+            "label": "SSFY1604 (SDC)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2018-01-27T00:00:00.000"
+          },
+          {
+            "id": "QDNyZDmrRUj",
+            "label": "SSFZ1601 (OTHER NORWGIAN PUBLIC)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-11-27T00:00:00.000"
+          },
+          {
+            "id": "KQIL1mLirkx",
+            "label": "KEFE1517 (BPRM)",
+            "startDate": "2015-09-28T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "EUoOrG26L34",
+            "label": "KEFM1506 (ECHO)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-26T00:00:00.000"
+          },
+          {
+            "id": "kcLruAnV6V4",
+            "label": "KEFM1601 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "LB1F3ROH53D",
+            "label": "KEFM1602 (NMFA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "lJARuRojW2R",
+            "label": "KEFM1603 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "TYj9wunBoQM",
+            "label": "KEFM1606 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "owrJrFN5I1k",
+            "label": "KEFM1607 (SIDA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "i3gspMJqKTE",
+            "label": "KEFM1608 (NRC PRIVATE SPONSORS (fadder))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "pjZdCKchZ7H",
+            "label": "KEFM1609 (Sida)",
+            "startDate": "2015-12-31T00:00:00.000",
+            "endDate": "2016-12-26T00:00:00.000"
+          },
+          {
+            "id": "UC07AOm78zm",
+            "label": "KEFM1611 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "lofhc83Mpyv",
+            "label": "KEFM1612 (DEVCO)",
+            "startDate": "2015-09-24T00:00:00.000",
+            "endDate": "2018-08-27T00:00:00.000"
+          },
+          {
+            "id": "GW1bsWd14gk",
+            "label": "KEFM1613 (NRC TELETHON FUNDS)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "RsTHH6Ojiac",
+            "label": "KEFM1616 (Telethon)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "Tu6DKSBGQSD",
+            "label": "KEFM1617 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-01-27T00:00:00.000"
+          },
+          {
+            "id": "J7e18IY8Zte",
+            "label": "KEFM1620 (WFP)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "dHPVt4dH8Hw",
+            "label": "KEFM1625 (Unicef)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2018-03-28T00:00:00.000"
+          },
+          {
+            "id": "IvDUPcEV884",
+            "label": "KEFM1622 (Sida)",
+            "startDate": "2016-05-26T00:00:00.000",
+            "endDate": "2018-05-24T00:00:00.000"
+          },
+          {
+            "id": "iZcmGinMOIU",
+            "label": "KEFM1623 (OTHER UN)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-01-27T00:00:00.000"
+          },
+          {
+            "id": "Nd9rxrODNwe",
+            "label": "KEFW1506 (WFP)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "KibouCIEcaz",
+            "label": "KEFW1511 (NMFA)",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "RhqvinjgSmS",
+            "label": "KEFW1512  (OFDA/USAID)",
+            "startDate": "2015-09-24T00:00:00.000",
+            "endDate": "2018-03-29T00:00:00.000"
+          },
+          {
+            "id": "jdLWIFZRXlC",
+            "label": "KEFM1610 (ECHO)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "lodoGjxhzte",
+            "label": "SOFE1521 (DEVCO (old EuropeAid))",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2018-06-13T00:00:00.000"
+          },
+          {
+            "id": "aVKOLu90hyb",
+            "label": "SOFF1310 (DFID)",
+            "startDate": "2013-10-01T00:00:00.000",
+            "endDate": "2018-02-28T00:00:00.000"
+          },
+          {
+            "id": "ZZIyhimXDnF",
+            "label": "SOFF1513 (CHF)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-10-28T00:00:00.000"
+          },
+          {
+            "id": "TLtVnAoxaPF",
+            "label": "SOFF1519 (GiZ )",
+            "startDate": "2015-10-01T00:00:00.000",
+            "endDate": "2016-08-28T00:00:00.000"
+          },
+          {
+            "id": "Ts3ugq4UM3e",
+            "label": "SOFL1605 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-11-28T00:00:00.000"
+          },
+          {
+            "id": "bkixCRDIJVL",
+            "label": "SOFM1416 (UNICEF)",
+            "startDate": "2014-07-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "iYOFA3O8qZM",
+            "label": "SOFM1502 (SIDA)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-08-27T00:00:00.000"
+          },
+          {
+            "id": "YjIPFupZm04",
+            "label": "SOFM1506 (ECHO)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-08-27T00:00:00.000"
+          },
+          {
+            "id": "zC7W1LZgWDK",
+            "label": "SOFM1508 (UNHABITAT)",
+            "startDate": "2015-07-15T00:00:00.000",
+            "endDate": "2017-01-19T00:00:00.000"
+          },
+          {
+            "id": "EgIHX9waBlV",
+            "label": "SOFM1509  (DEVCO)",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2019-06-16T00:00:00.000"
+          },
+          {
+            "id": "ASzS5DkwK2Y",
+            "label": "SOFM1513 (NORAD)",
+            "startDate": "2014-07-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "tj7GejnNHvO",
+            "label": "SOFM1602 (SIDA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "tkSZfHBaO0V",
+            "label": "SOFM1603 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "TcCYW4gH1rn",
+            "label": "SOFM1605 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "fS0NDzFGMuZ",
+            "label": "SOFM1606 (ECHO)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "bMqmboYGbD0",
+            "label": "SOFM1608 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-30T00:00:00.000"
+          },
+          {
+            "id": "Nx8vRujkv1j",
+            "label": "SOFM1609 (Qatar Foundation)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2019-06-30T00:00:00.000"
+          },
+          {
+            "id": "p8syixGmtAa",
+            "label": "SOFM1612 (OCHA)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-02-27T00:00:00.000"
+          },
+          {
+            "id": "S4D7S3mA4BZ",
+            "label": "SOFM1613 (CHF)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2017-07-30T00:00:00.000"
+          },
+          {
+            "id": "AnQy7usyi1T",
+            "label": "SOFM1614 (SIDA)",
+            "startDate": "2016-02-22T00:00:00.000",
+            "endDate": "2017-01-27T00:00:00.000"
+          },
+          {
+            "id": "P8OwNqzXvyX",
+            "label": "SOFM1615 (UNICEF)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2017-07-31T00:00:00.000"
+          },
+          {
+            "id": "ighYeS8lL3q",
+            "label": "SOFM1618 (OCHA)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-03-29T00:00:00.000"
+          },
+          {
+            "id": "BLEjLAKlM6T",
+            "label": "SOFM1619 (DFID)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2018-05-30T00:00:00.000"
+          },
+          {
+            "id": "pEt3MsCO7WN",
+            "label": "SOFM1620 (SIDA)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-04-29T00:00:00.000"
+          },
+          {
+            "id": "R2bPGOVS4gD",
+            "label": "SOFM1622 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-30T00:00:00.000"
+          },
+          {
+            "id": "nrEW89uneaL",
+            "label": "SOFM1633 (DFID)",
+            "startDate": "2016-08-15T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "UJRSugC4FTq",
+            "label": "SOFM1635 (UNHABITAT)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "lNrWsBYOsDs",
+            "label": "SOFS1318 (DFID - BRCiS)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "r5bfAWm3ohS",
+            "label": "SOFS1509 (OCHA)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2017-02-27T00:00:00.000"
+          },
+          {
+            "id": "nqERVOIBDJF",
+            "label": "SOFW1304 (DFID)",
+            "startDate": "2013-10-01T00:00:00.000",
+            "endDate": "2018-02-28T00:00:00.000"
+          },
+          {
+            "id": "o9C0u3xiHzG",
+            "label": "SOFW1508 (UNICEF )",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "oFyWVnpY0jd",
+            "label": "COFE1605 (ECHO)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2018-03-31T00:00:00.000"
+          },
+          {
+            "id": "z2Gpjd8H89Z",
+            "label": "COFL1606 (OTHER FOREIGN GOVT)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "QhhqBRi9g9G",
+            "label": "COFM1606 (TELETHON)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "kpVRzZPEZgo",
+            "label": "COFM1608 (SIDA)",
+            "startDate": "2016-06-25T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "g4XMXTSG7ts",
+            "label": "COFY1604 (DIPECHO)",
+            "startDate": "2016-04-16T00:00:00.000",
+            "endDate": "2018-01-14T00:00:00.000"
+          },
+          {
+            "id": "FIGKjTMFl0k",
+            "label": "ETFE1507 (BPRM)",
+            "startDate": "2015-08-01T00:00:00.000",
+            "endDate": "2016-11-28T00:00:00.000"
+          },
+          {
+            "id": "AV3bFyBbU4b",
+            "label": "ETFE1519 (NRC PRIVATE)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-08-28T00:00:00.000"
+          },
+          {
+            "id": "HDIETAxCpeP",
+            "label": "ETFE1521 (NMFA (HUM))",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-07-29T00:00:00.000"
+          },
+          {
+            "id": "GMJ1MoK92fd",
+            "label": "ETFM1505 (Sida)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-08-28T00:00:00.000"
+          },
+          {
+            "id": "arLim6xEmkx",
+            "label": "ETFM1506 (ECHO)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-07-29T00:00:00.000"
+          },
+          {
+            "id": "cWtijOjnWtQ",
+            "label": "ETFM1513 (NMFA (HUM))",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2018-04-30T00:00:00.000"
+          },
+          {
+            "id": "KFxl3ZQqn7i",
+            "label": "ETFM1514 (Sida)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-10-28T00:00:00.000"
+          },
+          {
+            "id": "QuLsrALzyDc",
+            "label": "ETFM1515 (NMFA (HUM))",
+            "startDate": "2015-12-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "jQOZxabGxZ5",
+            "label": "ETFM1519 (OCHA)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2016-12-29T00:00:00.000"
+          },
+          {
+            "id": "yQDkdHEGClp",
+            "label": "ETFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "l0D8A6Kklnp",
+            "label": "ETFM1602 (Sida)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "fvYEmrJn9rb",
+            "label": "ETFM1603 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "Vsn0hx4TtEJ",
+            "label": "ETFM1604 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "SMJ1aVFphwf",
+            "label": "ETFM1605 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "U7eGCkNvrGQ",
+            "label": "ETFM1606 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-07-29T00:00:00.000"
+          },
+          {
+            "id": "BT4sPrghp7U",
+            "label": "ETFM1607 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "D0RkRZmBrsv",
+            "label": "ETFM1608 (OCHA)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2016-12-29T00:00:00.000"
+          },
+          {
+            "id": "O8lAAqTvzRC",
+            "label": "ETFM1613 (WFP)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-07-29T00:00:00.000"
+          },
+          {
+            "id": "digoY8nHb7a",
+            "label": "ETFM1614 (OCHA)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "nFiuvXnY1tN",
+            "label": "ETFM1615 (Sida)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-02-28T00:00:00.000"
+          },
+          {
+            "id": "n7juR4QCr8R",
+            "label": "ETFM1616 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "lBOC1XnYYih",
+            "label": "ETFM1617 (NMFA (HUM))",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "x5uC3C5o4kC",
+            "label": "ETFW1512 (OTHER FOREIGN GOVT)",
+            "startDate": "2015-03-03T00:00:00.000",
+            "endDate": "2016-10-16T00:00:00.000"
+          },
+          {
+            "id": "gfqzoXealpL",
+            "label": "ETFW1513 (Sida)",
+            "startDate": "2015-06-01T00:00:00.000",
+            "endDate": "2016-08-28T00:00:00.000"
+          },
+          {
+            "id": "iTY3nykBEIq",
+            "label": "ETFY1407 (SDC)",
+            "startDate": "2014-12-15T00:00:00.000",
+            "endDate": "2017-04-30T00:00:00.000"
+          },
+          {
+            "id": "OhonngrMe9I",
+            "label": "ETFY1507 (WFP)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-08-28T00:00:00.000"
+          },
+          {
+            "id": "E6e76LmW0Xk",
+            "label": "JOFM1610 (Telethon)",
+            "startDate": "2016-10-01T00:00:00.000",
+            "endDate": "2017-08-31T00:00:00.000"
+          },
+          {
+            "id": "iBMijtQBPlr",
+            "label": "JOFM1619 (DFID)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2018-09-01T00:00:00.000"
+          },
+          {
+            "id": "X7ERuzslHiV",
+            "label": "YEFF1517 (Sida)",
+            "startDate": "2015-12-15T00:00:00.000",
+            "endDate": "2016-12-11T00:00:00.000"
+          },
+          {
+            "id": "fcS15vKOTr5",
+            "label": "YEFM1504 (DFID)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2017-02-27T00:00:00.000"
+          },
+          {
+            "id": "fXXF0YLNknN",
+            "label": "YEFM1505 (Sida)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2016-08-27T00:00:00.000"
+          },
+          {
+            "id": "QLx9m6pqZza",
+            "label": "YEFM1507 (OCHA)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "KL3eUcM4fpG",
+            "label": "YEFM1508 (OCHA)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "UPCqphEmkIh",
+            "label": "YEFM1509 (GAC)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "W4gCTxRrfCu",
+            "label": "YEFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "mbaw1thaBv3",
+            "label": "YEFM1602 (Sida)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "BbS2MtBKtra",
+            "label": "YEFM1603 (ECHO)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "Exyv1ErrcIG",
+            "label": "YEFM1604 (OCHA)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2018-01-27T00:00:00.000"
+          },
+          {
+            "id": "OdV2g83RcvX",
+            "label": "YEFM1607 (WFP)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "x9okgufKeRn",
+            "label": "YEFM1609 (WFP)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "W5MTZNYUfVG",
+            "label": "YEFM1610 (SDC)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-27T00:00:00.000"
+          },
+          {
+            "id": "waFHaHfdaDy",
+            "label": "YEFM1611 (TELETHON)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "wH38lfMBXBz",
+            "label": "MMFL1405 (SDC)",
+            "startDate": "2014-05-01T00:00:00.000",
+            "endDate": "2016-06-29T00:00:00.000"
+          },
+          {
+            "id": "zvnOLs72N08",
+            "label": "MMFL1502 (UNHCR)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "q0Wt3LTzZq2",
+            "label": "MMFM1503 (NMFA)",
+            "startDate": "2015-11-15T00:00:00.000",
+            "endDate": "2016-08-13T00:00:00.000"
+          },
+          {
+            "id": "TsGYm51IIsb",
+            "label": "MMFM1506 (Australia)",
+            "startDate": "2015-06-30T00:00:00.000",
+            "endDate": "2017-09-28T00:00:00.000"
+          },
+          {
+            "id": "ELF15SoDaMO",
+            "label": "MMFM1601 (NMFA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "HMqdMH2yOKC",
+            "label": "MMFM1602 (SIDA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "PXjC3C6mQP9",
+            "label": "MMFM1603 (UNHCR)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "Zv9rMkG90ou",
+            "label": "MMFM1607 (DRC)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2018-08-29T00:00:00.000"
+          },
+          {
+            "id": "Sv8dZC4Ryjs",
+            "label": "MMFM1609 (SDC)",
+            "startDate": "2016-05-23T00:00:00.000",
+            "endDate": "2017-08-20T00:00:00.000"
+          },
+          {
+            "id": "s6YGcVBn8J5",
+            "label": "MMFM1610 (Norad (non GAP))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "awzttwdg4Yp",
+            "label": "MMFM1616 (SIDA)",
+            "startDate": "2016-08-15T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "epG7GW4VCm0",
+            "label": "MMFM1618 (Trocaire)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "RpNHRDduaoo",
+            "label": "MMFM1621 (OCHA)",
+            "startDate": "2016-11-01T00:00:00.000",
+            "endDate": "2017-10-29T00:00:00.000"
+          },
+          {
+            "id": "DR99KIuSYIq",
+            "label": "MMFM1622 (SDC)",
+            "startDate": "2016-10-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "W83RSFp1QzZ",
+            "label": "MMFS1303 (DEVCO)",
+            "startDate": "2012-12-29T00:00:00.000",
+            "endDate": "2017-09-26T00:00:00.000"
+          },
+          {
+            "id": "WdISpi90sZU",
+            "label": "MMFS1608 (UNICEF)",
+            "startDate": "2016-06-22T00:00:00.000",
+            "endDate": "2017-03-21T00:00:00.000"
+          },
+          {
+            "id": "M0npD1nl6ts",
+            "label": "CFFE1503 (UNICEF)",
+            "startDate": "2015-07-27T00:00:00.000",
+            "endDate": "2017-01-24T00:00:00.000"
+          },
+          {
+            "id": "qmuhGcyGXrt",
+            "label": "CFFM1502 (DEVCO)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "VfdvMhD6dAK",
+            "label": "CFFM1503 (ECHO)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2016-12-29T00:00:00.000"
+          },
+          {
+            "id": "abuwsq0KoTL",
+            "label": "CFFM1504 (USAID (OFDA))",
+            "startDate": "2015-09-30T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "AT7rMVxWBjV",
+            "label": "CFFM1505 (SIDA)",
+            "startDate": "2015-10-19T00:00:00.000",
+            "endDate": "2016-07-17T00:00:00.000"
+          },
+          {
+            "id": "jlGcQfOkQMo",
+            "label": "CFFM1506 (UNICEF )",
+            "startDate": "2016-01-15T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "ZEH5SvTuLgy",
+            "label": "CFFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "hT7ZlKtRgoJ",
+            "label": "CFFM1602 (SIDA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "sghLRLSMJGI",
+            "label": "CFFM1603 (UNHCR)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "i34oj46PQLW",
+            "label": "CFFM1607 (GAC)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "xWD0Tfilmfm",
+            "label": "CFFM1608 (UNICEF)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "wmvsZw8FF61",
+            "label": "CFFM1609 (UNDP)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-07-29T00:00:00.000"
+          },
+          {
+            "id": "QAQzI1Rpw6J",
+            "label": "CFFM1610 (UNDP)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2017-08-29T00:00:00.000"
+          },
+          {
+            "id": "gGlcTsbOYir",
+            "label": "CFFM1611 (UNDP)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2016-07-29T00:00:00.000"
+          },
+          {
+            "id": "e2tmMM7pejl",
+            "label": "CFFM1612 (SDC)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2017-10-29T00:00:00.000"
+          },
+          {
+            "id": "L6yA4V0RmUM",
+            "label": "CFFW1504 (UNDP)",
+            "startDate": "2015-11-01T00:00:00.000",
+            "endDate": "2016-07-29T00:00:00.000"
+          },
+          {
+            "id": "U9XUqjd2vd8",
+            "label": "CFFY1508 (SDC)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-28T00:00:00.000"
+          },
+          {
+            "id": "Dfm5bs4kFYz",
+            "label": "KEFM1619 (Telethon)",
+            "startDate": "2016-03-31T00:00:00.000",
+            "endDate": "2017-09-28T00:00:00.000"
+          },
+          {
+            "id": "pkoNfzydbr3",
+            "label": "KEFM1621 (Unicef)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2018-03-28T00:00:00.000"
+          },
+          {
+            "id": "wmx2uRd9rNy",
+            "label": "KEFM1624 (Unicef)",
+            "startDate": "2016-09-22T00:00:00.000",
+            "endDate": "2018-03-20T00:00:00.000"
+          },
+          {
+            "id": "HYl44JyaVCC",
+            "label": "KEFM1630 (DFID)",
+            "startDate": "2016-08-31T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "FaTsGxiB3AY",
+            "label": "KEFM1631 (DFID)",
+            "startDate": "2016-08-31T00:00:00.000",
+            "endDate": "2017-06-28T00:00:00.000"
+          },
+          {
+            "id": "u30Gv78GHk2",
+            "label": "KEFF1506 (WFP)",
+            "startDate": "2016-03-31T00:00:00.000",
+            "endDate": "2017-09-26T00:00:00.000"
+          },
+          {
+            "id": "hkXaUMSiBXl",
+            "label": "KEFF1516 (SIDA)",
+            "startDate": "2016-01-09T00:00:00.000",
+            "endDate": "2017-05-23T00:00:00.000"
+          },
+          {
+            "id": "gtYklxxztJm",
+            "label": "JOFM1618 (Swiss Confederation)",
+            "startDate": "2016-09-30T00:00:00.000",
+            "endDate": "2018-02-27T00:00:00.000"
+          },
+          {
+            "id": "IstQ2lGW7v6",
+            "label": "CDFE1508 (Sida RRM)",
+            "startDate": "2015-08-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "N8XJe3BoTjx",
+            "label": "CDFE1604 (Norad (non GAP))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "f2eUu0OASyW",
+            "label": "CDFE1605 (Sida RRM)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2017-02-27T00:00:00.000"
+          },
+          {
+            "id": "xoAmcqB5zjl",
+            "label": "CDFE1606 (NRC PRIVATE SPONSORS)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "yJc7Tz2MqBo",
+            "label": "CDFF1503 (ECHO)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "MujkBZPe7an",
+            "label": "CDFF1506 (UNDP)",
+            "startDate": "2015-12-15T00:00:00.000",
+            "endDate": "2016-10-11T00:00:00.000"
+          },
+          {
+            "id": "ClUu8caKqMb",
+            "label": "CDFF1603 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "O8pOZb91X1G",
+            "label": "CDFF1606 (WFP)",
+            "startDate": "2016-03-15T00:00:00.000",
+            "endDate": "2017-05-29T00:00:00.000"
+          },
+          {
+            "id": "Gy50riZKvn4",
+            "label": "CDFL1506 (SDC)",
+            "startDate": "2015-09-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "wfxx94nDqRP",
+            "label": "CDFM1505 (ECHO)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "nHAAL0PomZF",
+            "label": "CDFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "ojFrRGsGz4a",
+            "label": "CDFM1602 (Sida (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-08-27T00:00:00.000"
+          },
+          {
+            "id": "ypI0iHIa2j3",
+            "label": "CDFM1603 (ECHO)",
+            "startDate": "2016-03-01T00:00:00.000",
+            "endDate": "2018-02-03T00:00:00.000"
+          },
+          {
+            "id": "J80ufDHsnY4",
+            "label": "CDFY1405 (DFID)",
+            "startDate": "2014-04-01T00:00:00.000",
+            "endDate": "2017-09-27T00:00:00.000"
+          },
+          {
+            "id": "aqv6iNVViaG",
+            "label": "CDFY1501 (UNICEF)",
+            "startDate": "2015-05-01T00:00:00.000",
+            "endDate": "2016-10-27T00:00:00.000"
+          },
+          {
+            "id": "iayG86kB5mm",
+            "label": "CDFY1509 (DFID)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-09-27T00:00:00.000"
+          },
+          {
+            "id": "ekVsd49QsjQ",
+            "label": "CDFY1601 (UNICEF)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "wuSEkHtZ4mt",
+            "label": "CDFY1602 (DFID)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "moSRT3rWQeS",
+            "label": "CDFY1604 (Sida RRM)",
+            "startDate": "2016-05-15T00:00:00.000",
+            "endDate": "2017-02-10T00:00:00.000"
+          },
+          {
+            "id": "dvliZuahm4z",
+            "label": "CDFY1605 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2018-01-27T00:00:00.000"
+          },
+          {
+            "id": "fntvKJHRrb4",
+            "label": "PSFM1634 (Belgium)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-31T00:00:00.000"
+          },
+          {
+            "id": "pUYvrfBPYbj",
+            "label": "IQFM1606 (OFDA)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-12-31T00:00:00.000"
+          },
+          {
+            "id": "wPDPBr6KJTF",
+            "label": "IRFE1604 (ECHO)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2018-06-29T00:00:00.000"
+          },
+          {
+            "id": "lbiaoCFQkf9",
+            "label": "IRFF1604 (UNHCR)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "FVmoOOHmn56",
+            "label": "IRFM1601 (NMFA (HUM))",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-12-31T00:00:00.000"
+          },
+          {
+            "id": "B6NiLeAsDEG",
+            "label": "IRFM1604 (ECHO)",
+            "startDate": "2016-07-01T00:00:00.000",
+            "endDate": "2017-06-30T00:00:00.000"
+          },
+          {
+            "id": "NU1qVwEnJo4",
+            "label": "IRFX0000 (NRC OWN FUNDS)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2099-12-31T00:00:00.000"
+          },
+          {
+            "id": "BpP5jrjfPU4",
+            "label": "IRFY1501 (DEVCO (old EuropeAid))",
+            "startDate": "2015-03-01T00:00:00.000",
+            "endDate": "2017-08-31T00:00:00.000"
+          },
+          {
+            "id": "PnqQrvtMSth",
+            "label": "LBFE1503 (SIDA)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-03-30T00:00:00.000"
+          },
+          {
+            "id": "FJsSgUSqZFD",
+            "label": "LBFE1504 (SIDA)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-03-30T00:00:00.000"
+          },
+          {
+            "id": "MCDT1lg1z7Z",
+            "label": "LBFL1408 (DFID)",
+            "startDate": "2014-09-01T00:00:00.000",
+            "endDate": "2016-10-29T00:00:00.000"
+          },
+          {
+            "id": "ydlZsI1WDmv",
+            "label": "LBFL1507 (NLS)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-10-29T00:00:00.000"
+          },
+          {
+            "id": "DIJY1HLbBmr",
+            "label": "LBFL1508 (ERF)",
+            "startDate": "2015-08-15T00:00:00.000",
+            "endDate": "2016-11-12T00:00:00.000"
+          },
+          {
+            "id": "G6myMWYrAW0",
+            "label": "LBFL1509 (DRC)",
+            "startDate": "2015-08-10T00:00:00.000",
+            "endDate": "2016-04-19T00:00:00.000"
+          },
+          {
+            "id": "ikX8V5XxfGF",
+            "label": "LBFM1408 (ECHO)",
+            "startDate": "2014-11-01T00:00:00.000",
+            "endDate": "2015-06-29T00:00:00.000"
+          },
+          {
+            "id": "oxib5hjWvVY",
+            "label": "LBFM1409 (DFID)",
+            "startDate": "2014-09-01T00:00:00.000",
+            "endDate": "2016-10-29T00:00:00.000"
+          },
+          {
+            "id": "qWljP4FRLAr",
+            "label": "LBFM1501 (NMFA)",
+            "startDate": "2015-01-31T00:00:00.000",
+            "endDate": "2016-03-30T00:00:00.000"
+          },
+          {
+            "id": "xWlHabvoaeL",
+            "label": "LBFM1502 (NMFA)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-03-30T00:00:00.000"
+          },
+          {
+            "id": "Mh8nyi07pol",
+            "label": "LBFM1503 (ECHO)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2016-06-29T00:00:00.000"
+          },
+          {
+            "id": "L9V8Uq0mFvk",
+            "label": "LBFM1504 (SIDA)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-03-30T00:00:00.000"
+          },
+          {
+            "id": "rJivItcBQ5a",
+            "label": "LBFM1505 (UNHCR)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-03-30T00:00:00.000"
+          },
+          {
+            "id": "I6TYNLAuoXU",
+            "label": "LBFM1506 (DFATD)",
+            "startDate": "2015-04-01T00:00:00.000",
+            "endDate": "2015-06-29T00:00:00.000"
+          },
+          {
+            "id": "uWt1OXThC6R",
+            "label": "LBFM1507 (UNICEF)",
+            "startDate": "2015-01-01T00:00:00.000",
+            "endDate": "2016-04-30T00:00:00.000"
+          },
+          {
+            "id": "yg2RCYsJcnv",
+            "label": "LBFM1508 (NMFA)",
+            "startDate": "2015-08-01T00:00:00.000",
+            "endDate": "2016-12-29T00:00:00.000"
+          },
+          {
+            "id": "QBYVJZDN6JE",
+            "label": "LBFM1601 (NMFA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "OUII0ccSfoC",
+            "label": "LBFM1602 (NMFA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "kJEBfNm4zUO",
+            "label": "LBFM1603 (ECHO)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-06-29T00:00:00.000"
+          },
+          {
+            "id": "K8SsMt6EqO7",
+            "label": "LBFM1604 (SIDA)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "HngxSAOZ4Lp",
+            "label": "LBFM1606 (OCHA)",
+            "startDate": "2016-05-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "NxIIRlf7bxm",
+            "label": "LBFM1607 (KFW)",
+            "startDate": "2016-06-01T00:00:00.000",
+            "endDate": "2020-02-28T00:00:00.000"
+          },
+          {
+            "id": "tbdSH5bCE6k",
+            "label": "LBFM1608 (KFW)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2019-03-31T00:00:00.000"
+          },
+          {
+            "id": "CPwrAeHpGma",
+            "label": "LBFM1609 (NRC PRIVATE)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "tynKX3Yi8EJ",
+            "label": "LBFM1610 (KAVLI)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-05-30T00:00:00.000"
+          },
+          {
+            "id": "JoPpRXmImHI",
+            "label": "LBFM1611 (UNHCR)",
+            "startDate": "2016-01-01T00:00:00.000",
+            "endDate": "2016-09-28T00:00:00.000"
+          },
+          {
+            "id": "ffGoaXhJtl8",
+            "label": "LBFM1612 (NMFA)",
+            "startDate": "2016-04-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "i0j386EPW3l",
+            "label": "LBFM1613 (BPRM)",
+            "startDate": "2016-09-01T00:00:00.000",
+            "endDate": "2017-11-29T00:00:00.000"
+          },
+          {
+            "id": "leHCbmbQyc2",
+            "label": "LBFM1614 (DFID)",
+            "startDate": "2016-08-01T00:00:00.000",
+            "endDate": "2018-06-29T00:00:00.000"
+          },
+          {
+            "id": "nCqetZeifsC",
+            "label": "LBFM1615 (B. Council)",
+            "startDate": "2016-02-01T00:00:00.000",
+            "endDate": "2017-03-31T00:00:00.000"
+          },
+          {
+            "id": "a0Hhx6ZjCLi",
+            "label": "LBFY1504 (ERF)",
+            "startDate": "2015-08-15T00:00:00.000",
+            "endDate": "2016-08-12T00:00:00.000"
+          },
+          {
+            "id": "VtJpZdigqEC",
+            "label": "IRFY1502 (ECHO)",
+            "startDate": "2015-07-31T00:00:00.000",
+            "endDate": "2016-12-30T00:00:00.000"
+          }
+        ]
+      },
+      {
+        "id": "ouNRBWIbnxY",
+        "label": "Core Competency (Team)",
+        "categoryOptions": [
+          {
+            "id": "x4KXYXUgz7B",
+            "label": "Camp Management"
+          },
+          {
+            "id": "KDV9mGPs6Fl",
+            "label": "Education"
+          },
+          {
+            "id": "dW2sFIb3p8K",
+            "label": "Food Security"
+          },
+          {
+            "id": "T4mSpwZWWKv",
+            "label": "ICLA"
+          },
+          {
+            "id": "LX0Sc3hsHuX",
+            "label": "Shelter"
+          },
+          {
+            "id": "bTGLMXMzenZ",
+            "label": "Wash"
+          },
+          {
+            "id": "hyEq84Q5VBU",
+            "label": "Emergency/Mobile (Y)"
+          },
+          {
+            "id": "JQR4xOmAuIT",
+            "label": "Cash (Y Standalone)"
+          },
+          {
+            "id": "oaNbu2hv8Yq",
+            "label": "Other/Cross Border (Y)"
+          },
+          {
+            "id": "b6OgoYMqyqi",
+            "label": "Other (e.g. GBV)"
+          }
+        ]
+      },
+      {
+        "id": "sHta2dMEOLO",
+        "label": "ActualTargets",
+        "categoryOptions": [
+          {
+            "id": "G6MUpZs8CZP",
+            "label": "Actual"
+          },
+          {
+            "id": "i7WdM9wjHyK",
+            "label": "Target"
+          }
+        ]
+      }
+    ]
+  },
+  "groups": [
+    {
+      "label": "Personas Recibiendo Servicios (ICLA)",
+      "dataElementCount": 7,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "GL-L1/E",
+            "name": "GL-L1/E: # of individuals receiving information services (ES)",
+            "externalAccess": false,
+            "displayName": "GL-L1/E: # of individuals receiving information services (ES)",
+            "shortName": "# ppl receiving info (ES)",
+            "description": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "displayShortName": "# ppl receiving info (ES)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "id": "PJuKxVrmHEE"
+          },
+          {
+            "code": "GL-L1/I",
+            "name": "GL-L1/I: # of individuals receiving information services (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L1/I: # of individuals receiving information services (IDPR)",
+            "shortName": "# ppl receiving info (IDPR)",
+            "description": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "displayShortName": "# ppl receiving info (IDPR)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "id": "Uol8HJ4A7qD"
+          },
+          {
+            "code": "GL-L1/R",
+            "name": "GL-L1/R: # of individuals receiving information services (RSD)",
+            "externalAccess": false,
+            "displayName": "GL-L1/R: # of individuals receiving information services (RSD)",
+            "shortName": "# ppl receiving info (RSD)",
+            "description": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "displayShortName": "# ppl receiving info (RSD)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "id": "wS4Ix60C1cu"
+          },
+          {
+            "code": "GL-L3/I",
+            "name": "GL-L3/I: # of individuals receiving counselling services (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L3/I: # of individuals receiving counselling services (IDPR)",
+            "shortName": "# ppl receiving counselling (IDPR)",
+            "description": "The number of beneficiaries counted for this indicator is the sum of the individual counselling beneficiaries plus those individuals who receive counselling as part of a group. A counselling service for a beneficiary or beneficiary group is defined as the entire set of interactions dedicated to resolving one issue.\n\nCounselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "displayShortName": "# ppl receiving counselling (IDPR)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the sum of the individual counselling beneficiaries plus those individuals who receive counselling as part of a group. A counselling service for a beneficiary or beneficiary group is defined as the entire set of interactions dedicated to resolving one issue.\n\nCounselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "id": "TGztZWEdUXL"
+          },
+          {
+            "code": "GL-L3/R",
+            "name": "GL-L3/R: # of individuals receiving counselling services (RSD)",
+            "externalAccess": false,
+            "displayName": "GL-L3/R: # of individuals receiving counselling services (RSD)",
+            "shortName": "# ppl receiving counselling (RSD)",
+            "description": "The number of beneficiaries counted for this indicator is the sum of the individual counselling beneficiaries plus those individuals who receive counselling as part of a group. A counselling service for a beneficiary or beneficiary group is defined as the entire set of interactions dedicated to resolving one issue.\n\nCounselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "displayShortName": "# ppl receiving counselling (RSD)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the sum of the individual counselling beneficiaries plus those individuals who receive counselling as part of a group. A counselling service for a beneficiary or beneficiary group is defined as the entire set of interactions dedicated to resolving one issue.\n\nCounselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "id": "NT0YV1dslB6"
+          },
+          {
+            "code": "GL-L5/I",
+            "name": "GL-L5/I: # of individuals receiving legal assistance services (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L5/I: # of individuals receiving legal assistance services (IDPR)",
+            "shortName": "# ppl receiving legal assistance (IDPR)",
+            "description": "The number of beneficiaries counted for this indicator is the sum of the individual direct legal assistance beneficiaries plus those individuals who receive legal assistance as part of a group.\n\nA legal assistance case is an NRC intervention that uses legal methodology to solve a problem beyond the provision of information and counselling. NRC takes an active role in representing or assisting the beneficiary.  Legal assistance cases can include disputes between opposing parties resolved by a court, a traditional body, an administrative body or by some equivalent legal process or collaborative dispute resolution process.\n\nA case can involve a claim for a service that is denied or when NRC is representing a client facing a legal obstacle to obtain IDP registration",
+            "displayShortName": "# ppl receiving legal assistance (IDPR)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the sum of the individual direct legal assistance beneficiaries plus those individuals who receive legal assistance as part of a group.\n\nA legal assistance case is an NRC intervention that uses legal methodology to solve a problem beyond the provision of information and counselling. NRC takes an active role in representing or assisting the beneficiary.  Legal assistance cases can include disputes between opposing parties resolved by a court, a traditional body, an administrative body or by some equivalent legal process or collaborative dispute resolution process.\n\nA case can involve a claim for a service that is denied or when NRC is representing a client facing a legal obstacle to obtain IDP registration",
+            "id": "OBOLbPM3AL1"
+          },
+          {
+            "code": "GL-L80/I",
+            "name": "GL-L80/I: # of individuals receiving training services (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L80/I: # of individuals receiving training services (IDPR)",
+            "shortName": "# ppl receiving training (IDPR)",
+            "description": "For this indicator, a training service includes all the parts that make up a coherent training program or training product regardless of whether the training service takes one day or takes place over multiple days. Male and female beneficiaries are counted one time for their participation in one training service.  Beneficiaries are counted one time for their participation a coherent training program that takes place over five days, not five times.\n\nTrainings vary in terms of length and the way they are delivered. The difference between training and information is that training uses pedagogical activities to impart high-level knowledge and skills to participants who actively engage in learning, while information does not require the same level of commitment or engagement.",
+            "displayShortName": "# ppl receiving training (IDPR)",
+            "displayDescription": "For this indicator, a training service includes all the parts that make up a coherent training program or training product regardless of whether the training service takes one day or takes place over multiple days. Male and female beneficiaries are counted one time for their participation in one training service.  Beneficiaries are counted one time for their participation a coherent training program that takes place over five days, not five times.\n\nTrainings vary in terms of length and the way they are delivered. The difference between training and information is that training uses pedagogical activities to impart high-level knowledge and skills to participants who actively engage in learning, while information does not require the same level of commitment or engagement.",
+            "id": "yKwX1ApO72T"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Female, Host Community",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Male, Host Community",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Female, IDP",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Male, IDP",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Female, Other",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Male, Other",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Female, Refugee",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/E: # of individuals receiving information services (ES) Male, Refugee",
+          "dataElement": "PJuKxVrmHEE",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Female, Host Community",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Male, Host Community",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Female, IDP",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Male, IDP",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Female, Other",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Male, Other",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Female, Refugee",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/I: # of individuals receiving information services (IDPR) Male, Refugee",
+          "dataElement": "Uol8HJ4A7qD",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Female, Host Community",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Male, Host Community",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Female, IDP",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Male, IDP",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Female, Other",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Male, Other",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Female, Refugee",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L1/R: # of individuals receiving information services (RSD) Male, Refugee",
+          "dataElement": "wS4Ix60C1cu",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Female, Host Community",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Male, Host Community",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Female, IDP",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Male, IDP",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Female, Other",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Male, Other",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Female, Refugee",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/I: # of individuals receiving counselling services (IDPR) Male, Refugee",
+          "dataElement": "TGztZWEdUXL",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Female, Host Community",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Male, Host Community",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Female, IDP",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Male, IDP",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Female, Other",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Male, Other",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Female, Refugee",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L3/R: # of individuals receiving counselling services (RSD) Male, Refugee",
+          "dataElement": "NT0YV1dslB6",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Female, Host Community",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Male, Host Community",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Female, IDP",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Male, IDP",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Female, Other",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Male, Other",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Female, Refugee",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L5/I: # of individuals receiving legal assistance services (IDPR) Male, Refugee",
+          "dataElement": "OBOLbPM3AL1",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Female, Host Community",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Male, Host Community",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Female, IDP",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Male, IDP",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Female, Other",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Male, Other",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Female, Refugee",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L80/I: # of individuals receiving training services (IDPR) Male, Refugee",
+          "dataElement": "yKwX1ApO72T",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "label": "No de Servicios (ICLA)",
+      "dataElementCount": 6,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "GL-L2/E",
+            "name": "GL-L2/E: # of information services delivered (ES)",
+            "externalAccess": false,
+            "displayName": "GL-L2/E: # of information services delivered (ES)",
+            "shortName": "# info svcs (ES)",
+            "description": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "displayShortName": "# info svcs (ES)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the number of individuals that receive information through a group information service plus the number of individuals who receive information one-on-one for a given quarter. Beneficiaries of radio programs/shows are not counted in this indicator.\n\nInformation can be delivered in either groups or one-on-one. In most cases, information is generic and is therefore delivered to a group.   \n\nThe basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "id": "AXFeYZvGBIf"
+          },
+          {
+            "code": "GL-L2/I",
+            "name": "GL-L2/I: # of information services delivered (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L2/I: # of information services delivered (IDPR)",
+            "shortName": "# info svcs (IDPR)",
+            "description": "The basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "displayShortName": "# info svcs (IDPR)",
+            "displayDescription": "The basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "id": "ac8NePXuukB"
+          },
+          {
+            "code": "GL-L2/R",
+            "name": "GL-L2/R: # of information services delivered (RSD)",
+            "externalAccess": false,
+            "displayName": "GL-L2/R: # of information services delivered (RSD)",
+            "shortName": "# info svcs (RSD)",
+            "description": "The basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "displayShortName": "# info svcs (RSD)",
+            "displayDescription": "The basic difference between information and counselling services is that information is generic and not tailored to solve specific problems or needs of an individual or group. Information services do not imply an advice on what is the best solution (viable, sustainable, etc.) to a specific problem. When an individual receives one to one information, very often that individual quickly progresses to counselling services, but not always.  ",
+            "id": "vTpW48PJeKM"
+          },
+          {
+            "code": "GL-L4/I",
+            "name": "GL-L4/I: # of counselling services delivered (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L4/I: # of counselling services delivered (IDPR)",
+            "shortName": "# counselling svcs (IDPR)",
+            "description": "Counselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "displayShortName": "# counselling svcs (IDPR)",
+            "displayDescription": "Counselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "id": "ncPXyirAKiK"
+          },
+          {
+            "code": "GL-L4/R",
+            "name": "GL-L4/R: # of counselling services delivered (RSD)",
+            "externalAccess": false,
+            "displayName": "GL-L4/R: # of counselling services delivered (RSD)",
+            "shortName": "# counselling svcs (RSD)",
+            "description": "Counselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "displayShortName": "# counselling svcs (RSD)",
+            "displayDescription": "Counselling is one-to-one advice to a beneficiary or beneficiary group on how to overcome obstacles to durable solutions, what institutions can assist in addressing protection gaps and/or how to address legal issues, including obtaining their rights and entitlements. In some cases counselling may be provided to a group of beneficiaries that share a specific issue.  \n\nIt is a step beyond the provision of general information on durable solutions or rights because it entails a degree of analysis of the problems faced by the specific beneficiary or beneficiary group and provides advice on what is the best possible course of action to solve a particular problem. It may require more than one interaction with the beneficiary or beneficiary group and it may entail making contact with institutions or third parties. \n\nPlease note that counselling is different from legal assistance, including Collaborative Dispute Resolution (CDR) because the former offers one individual or group specific advice while in the latter NRC provides legal assistance either in helping two or more parties with a dispute solve that dispute without having resorting to a formal judicial decision, or by representing a party to a dispute in order to find a solution.",
+            "id": "Z5zxElMHWxJ"
+          },
+          {
+            "code": "GL-L81/I",
+            "name": "GL-L81/I: # of training services delivered (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L81/I: # of training services delivered (IDPR)",
+            "shortName": "# training svcs (IDPR)",
+            "description": "For this indicator, a training service includes all the parts that make up a coherent training program or training product regardless of whether the training service takes one day or takes place over multiple days. Male and female beneficiaries are counted one time for their participation in one training service.  Beneficiaries are counted one time for their participation a coherent training program that takes place over five days, not five times.\n\nTrainings vary in terms of length and the way they are delivered. The difference between training and information is that training uses pedagogical activities to impart high-level knowledge and skills to participants who actively engage in learning, while information does not require the same level of commitment or engagement.",
+            "displayShortName": "# training svcs (IDPR)",
+            "displayDescription": "For this indicator, a training service includes all the parts that make up a coherent training program or training product regardless of whether the training service takes one day or takes place over multiple days. Male and female beneficiaries are counted one time for their participation in one training service.  Beneficiaries are counted one time for their participation a coherent training program that takes place over five days, not five times.\n\nTrainings vary in terms of length and the way they are delivered. The difference between training and information is that training uses pedagogical activities to impart high-level knowledge and skills to participants who actively engage in learning, while information does not require the same level of commitment or engagement.",
+            "id": "gs0oiFU3mAz"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "GL-L2/E: # of information services delivered (ES)",
+          "dataElement": "AXFeYZvGBIf",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L2/I: # of information services delivered (IDPR)",
+          "dataElement": "ac8NePXuukB",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L2/R: # of information services delivered (RSD)",
+          "dataElement": "vTpW48PJeKM",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L4/I: # of counselling services delivered (IDPR)",
+          "dataElement": "ncPXyirAKiK",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L4/R: # of counselling services delivered (RSD)",
+          "dataElement": "Z5zxElMHWxJ",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L81/I: # of training services delivered (IDPR)",
+          "dataElement": "gs0oiFU3mAz",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "label": "Casos de Assistencia Juridica",
+      "dataElementCount": 2,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "GL-L6/I",
+            "name": "GL-L6/I: # of legal assistance cases opened (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L6/I: # of legal assistance cases opened (IDPR)",
+            "shortName": "# legal cases opened (IDPR)",
+            "description": "The number of beneficiaries counted for this indicator is the sum of the individual direct legal assistance beneficiaries plus those individuals who receive legal assistance as part of a group.\n\nA legal assistance case is an NRC intervention that uses legal methodology to solve a problem beyond the provision of information and counselling. NRC takes an active role in representing or assisting the beneficiary.  Legal assistance cases can include disputes between opposing parties resolved by a court, a traditional body, an administrative body or by some equivalent legal process or collaborative dispute resolution process.\n\nA case can involve a claim for a service that is denied or when NRC is representing a client facing a legal obstacle to obtain IDP registration",
+            "displayShortName": "# legal cases opened (IDPR)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the sum of the individual direct legal assistance beneficiaries plus those individuals who receive legal assistance as part of a group.\n\nA legal assistance case is an NRC intervention that uses legal methodology to solve a problem beyond the provision of information and counselling. NRC takes an active role in representing or assisting the beneficiary.  Legal assistance cases can include disputes between opposing parties resolved by a court, a traditional body, an administrative body or by some equivalent legal process or collaborative dispute resolution process.\n\nA case can involve a claim for a service that is denied or when NRC is representing a client facing a legal obstacle to obtain IDP registration",
+            "id": "I1KxQGQXfzC"
+          },
+          {
+            "code": "GL-L7/I",
+            "name": "GL-L7/I: # of legal assistance cases closed (IDPR)",
+            "externalAccess": false,
+            "displayName": "GL-L7/I: # of legal assistance cases closed (IDPR)",
+            "shortName": "# legal cases closed (IDPR)",
+            "description": "The number of beneficiaries counted for this indicator is the sum of the individual direct legal assistance beneficiaries plus those individuals who receive legal assistance as part of a group.\n\nA legal assistance case is an NRC intervention that uses legal methodology to solve a problem beyond the provision of information and counselling. NRC takes an active role in representing or assisting the beneficiary.  Legal assistance cases can include disputes between opposing parties resolved by a court, a traditional body, an administrative body or by some equivalent legal process or collaborative dispute resolution process.\n\nA case can involve a claim for a service that is denied or when NRC is representing a client facing a legal obstacle to obtain IDP registration",
+            "displayShortName": "# legal cases closed (IDPR)",
+            "displayDescription": "The number of beneficiaries counted for this indicator is the sum of the individual direct legal assistance beneficiaries plus those individuals who receive legal assistance as part of a group.\n\nA legal assistance case is an NRC intervention that uses legal methodology to solve a problem beyond the provision of information and counselling. NRC takes an active role in representing or assisting the beneficiary.  Legal assistance cases can include disputes between opposing parties resolved by a court, a traditional body, an administrative body or by some equivalent legal process or collaborative dispute resolution process.\n\nA case can involve a claim for a service that is denied or when NRC is representing a client facing a legal obstacle to obtain IDP registration",
+            "id": "pUlGvbXFSyh"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "GL-L6/I: # of legal assistance cases opened (IDPR) In-Court Rep",
+          "dataElement": "I1KxQGQXfzC",
+          "categoryOptionCombo": "nA4sXgEqCd4",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L6/I: # of legal assistance cases opened (IDPR) Other",
+          "dataElement": "I1KxQGQXfzC",
+          "categoryOptionCombo": "MsUZpCVvufU",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L6/I: # of legal assistance cases opened (IDPR) CDR",
+          "dataElement": "I1KxQGQXfzC",
+          "categoryOptionCombo": "YwTBBCU9oya",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L6/I: # of legal assistance cases opened (IDPR) Access to Admin Procedures",
+          "dataElement": "I1KxQGQXfzC",
+          "categoryOptionCombo": "uwLLONaTA4g",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L7/I: # of legal assistance cases closed (IDPR) In-Court Rep",
+          "dataElement": "pUlGvbXFSyh",
+          "categoryOptionCombo": "nA4sXgEqCd4",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L7/I: # of legal assistance cases closed (IDPR) Other",
+          "dataElement": "pUlGvbXFSyh",
+          "categoryOptionCombo": "MsUZpCVvufU",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L7/I: # of legal assistance cases closed (IDPR) CDR",
+          "dataElement": "pUlGvbXFSyh",
+          "categoryOptionCombo": "YwTBBCU9oya",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-L7/I: # of legal assistance cases closed (IDPR) Access to Admin Procedures",
+          "dataElement": "pUlGvbXFSyh",
+          "categoryOptionCombo": "uwLLONaTA4g",
+          "type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "label": "Personas Recibiendo Mobility Kits",
+      "dataElementCount": 1,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "CO-R16",
+            "name": "CO-R16: # of people who receive mobility kits ",
+            "externalAccess": false,
+            "displayName": "CO-R16: # of people who receive mobility kits ",
+            "shortName": "# ppl get mobility kit ",
+            "description": "# of people in need of protection who receive mobility kits",
+            "displayShortName": "# ppl get mobility kit ",
+            "displayDescription": "# of people in need of protection who receive mobility kits",
+            "id": "gJvb3GsbYmQ"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "CO-R16: # of people who receive mobility kits  Female",
+          "dataElement": "gJvb3GsbYmQ",
+          "categoryOptionCombo": "shbGeNp6nbM",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-R16: # of people who receive mobility kits  Male",
+          "dataElement": "gJvb3GsbYmQ",
+          "categoryOptionCombo": "ppLwES2u52Q",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "label": "Census",
+      "dataElementCount": 1,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "CO-E49",
+            "name": "CO-E49: # of out of school children identified through census",
+            "externalAccess": false,
+            "displayName": "CO-E49: # of out of school children identified through census",
+            "shortName": "# of out of school children id through census",
+            "description": "# of out of school children identified through census",
+            "displayShortName": "# of out of school children id through census",
+            "displayDescription": "# of out of school children identified through census",
+            "id": "zYQ9voE9s31"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "CO-E49: # of out of school children identified through census Female",
+          "dataElement": "zYQ9voE9s31",
+          "categoryOptionCombo": "shbGeNp6nbM",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E49: # of out of school children identified through census Male",
+          "dataElement": "zYQ9voE9s31",
+          "categoryOptionCombo": "ppLwES2u52Q",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "label": "Capacitacion-Info Educacion",
+      "dataElementCount": 2,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "CO-E34",
+            "name": "CO-E34: # of children trained on key survival skills",
+            "externalAccess": false,
+            "displayName": "CO-E34: # of children trained on key survival skills",
+            "shortName": "# of children trained on key survival skills",
+            "description": "# of children trained on key survival skills",
+            "displayShortName": "# of children trained on key survival skills",
+            "displayDescription": "# of children trained on key survival skills",
+            "id": "LIPsWQAocSI"
+          },
+          {
+            "code": "CO-E42",
+            "name": "CO-E42: # people attending sessions on right to/importance of Education",
+            "externalAccess": false,
+            "displayName": "CO-E42: # people attending sessions on right to/importance of Education",
+            "shortName": "# ppl attending sess. right/import education",
+            "description": "# people attending sessions on right to/importance of Education",
+            "displayShortName": "# ppl attending sess. right/import education",
+            "displayDescription": "# people attending sessions on right to/importance of Education",
+            "id": "GVligc1nn6W"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "CO-E34: # of children trained on key survival skills Female, Host Community",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Male, Host Community",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Female, IDP",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Male, IDP",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Female, Other",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Male, Other",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Female, Refugee",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E34: # of children trained on key survival skills Male, Refugee",
+          "dataElement": "LIPsWQAocSI",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Female, Host Community",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Male, Host Community",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Female, IDP",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Male, IDP",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Female, Other",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Male, Other",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Female, Refugee",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E42: # people attending sessions on right to/importance of Education Male, Refugee",
+          "dataElement": "GVligc1nn6W",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "label": "Capacitacion de profesionales educativas",
+      "dataElementCount": 2,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "GL-E2/E",
+            "name": "GL-E2/E: # of teachers trained (EiE)",
+            "externalAccess": false,
+            "displayName": "GL-E2/E: # of teachers trained (EiE)",
+            "shortName": "# teachers trained (EiE)",
+            "description": "Number of male and female teachers that attend at least 50% of a  training.. \n\nTeacher training: This refers to any support and capacity building which enables teachers and other education personnel to effectively instruct and assess learners on the curricula. Teacher development programs are based on actual and evolving needs of both teachers and learners. There should be a clear link between the curriculum, learning rights, needs of students and their families, and teacher training and continued teacher support. Teachers and other education personnel should receive periodic, relevant, and structured training according to needs and circumstances. \n\nPre-service training refers to the training teachers receive before entering a classroom and beginning to teach. \n\nIn-service training refers to the continued training opportunities given to teachers after they have begun teaching in classrooms.",
+            "displayShortName": "# teachers trained (EiE)",
+            "displayDescription": "Number of male and female teachers that attend at least 50% of a  training.. \n\nTeacher training: This refers to any support and capacity building which enables teachers and other education personnel to effectively instruct and assess learners on the curricula. Teacher development programs are based on actual and evolving needs of both teachers and learners. There should be a clear link between the curriculum, learning rights, needs of students and their families, and teacher training and continued teacher support. Teachers and other education personnel should receive periodic, relevant, and structured training according to needs and circumstances. \n\nPre-service training refers to the training teachers receive before entering a classroom and beginning to teach. \n\nIn-service training refers to the continued training opportunities given to teachers after they have begun teaching in classrooms.",
+            "id": "BVrBUxlQmyB"
+          },
+          {
+            "code": "CO-E31-E006",
+            "name": "CO-E3: # of non-teaching education professionals trained (EiE)",
+            "externalAccess": false,
+            "displayName": "CO-E3: # of non-teaching education professionals trained (EiE)",
+            "shortName": "# of non-teachers trained in EiE",
+            "description": "# of non-teaching education professionals trained on Education in Emergencies",
+            "displayShortName": "# of non-teachers trained in EiE",
+            "displayDescription": "# of non-teaching education professionals trained on Education in Emergencies",
+            "id": "AMcRvo4JTzL"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "GL-E2/E: # of teachers trained (EiE) Female",
+          "dataElement": "BVrBUxlQmyB",
+          "categoryOptionCombo": "shbGeNp6nbM",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E2/E: # of teachers trained (EiE) Male",
+          "dataElement": "BVrBUxlQmyB",
+          "categoryOptionCombo": "ppLwES2u52Q",
+          "type": "INTEGER"
+        },
+        {
+          "label": "CO-E3: # of non-teaching education professionals trained (EiE) Female",
+          "dataElement": "AMcRvo4JTzL",
+          "categoryOptionCombo": "shbGeNp6nbM",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E3: # of non-teaching education professionals trained (EiE) Male",
+          "dataElement": "AMcRvo4JTzL",
+          "categoryOptionCombo": "ppLwES2u52Q",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "label": "Number de Sesiones (Ed)",
+      "dataElementCount": 2,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "CO-E43",
+            "name": "CO-E43: # sessions on right to/importance of Education",
+            "externalAccess": false,
+            "displayName": "CO-E43: # sessions on right to/importance of Education",
+            "shortName": "# sessions on right to/importance of Education",
+            "description": "CO-E43: # sessions on right to/importance of Education",
+            "displayShortName": "# sessions on right to/importance of Education",
+            "displayDescription": "CO-E43: # sessions on right to/importance of Education",
+            "id": "gv9IlhlOggN"
+          },
+          {
+            "code": "CO-E35",
+            "name": "CO-E35: # training sessions for children on key survival skills",
+            "externalAccess": false,
+            "displayName": "CO-E35: # training sessions for children on key survival skills",
+            "shortName": "# training sessions - children key survival skills",
+            "description": "# training sessions for children on key survival skills",
+            "displayShortName": "# training sessions - children key survival skills",
+            "displayDescription": "# training sessions for children on key survival skills",
+            "id": "zPy1MZPhRT5"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "CO-E43: # sessions on right to/importance of Education",
+          "dataElement": "gv9IlhlOggN",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "NUMBER"
+        },
+        {
+          "label": "CO-E35: # training sessions for children on key survival skills",
+          "dataElement": "zPy1MZPhRT5",
+          "categoryOptionCombo": "zq28YZ0m2lz",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "label": "NFI",
+      "dataElementCount": 1,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "GL-E71/E",
+            "name": "GL-E71/E: # of individuals receiving NFI kits (EiE)",
+            "externalAccess": false,
+            "displayName": "GL-E71/E: # of individuals receiving NFI kits (EiE)",
+            "shortName": "# ppl receiving NFI kits (EiE)",
+            "description": "An educational NFI kit is a collection of non-food items (note books, pencils, pens, school bags, registers�) distributed to beneficiaries in a single bundle to support educational objectives. The distribution of student, teacher and director kits can be included in this category. Normally the distribution of kits complements other education activities for example in a YEP or AE programme. If this kit is then replenished as a part of the same programme we do not count this as another beneficiary",
+            "displayShortName": "# ppl receiving NFI kits (EiE)",
+            "displayDescription": "An educational NFI kit is a collection of non-food items (note books, pencils, pens, school bags, registers�) distributed to beneficiaries in a single bundle to support educational objectives. The distribution of student, teacher and director kits can be included in this category. Normally the distribution of kits complements other education activities for example in a YEP or AE programme. If this kit is then replenished as a part of the same programme we do not count this as another beneficiary",
+            "id": "Yf2iiG6GSxM"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Female, Host Community",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "n4G7V7Ij9M8",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Male, Host Community",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "LtjBY2tHrCQ",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Female, IDP",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "TSItPcR5Co0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Male, IDP",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "Jsj0zseyZRy",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Female, Other",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "DUVdAs0fh3D",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Male, Other",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "mDkp8daNEq9",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Female, Refugee",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "fgK1KOTsYTX",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E71/E: # of individuals receiving NFI kits (EiE) Male, Refugee",
+          "dataElement": "Yf2iiG6GSxM",
+          "categoryOptionCombo": "LrwymE2so9E",
+          "type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "label": "NFI2",
+      "dataElementCount": 1,
+      "metaData": {
+        "indicators": [],
+        "dataElements": [
+          {
+            "code": "GL-E70/E",
+            "name": "GL-E70/E: # of NFI kits distributed (EiE)",
+            "externalAccess": false,
+            "displayName": "GL-E70/E: # of NFI kits distributed (EiE)",
+            "shortName": "# NFI kits distributed (EiE)",
+            "description": "An educational NFI kit is a collection of non-food items (note books, pencils, pens, school bags, registers�) distributed to beneficiaries in a single bundle to support educational objectives. The distribution of student, teacher and director kits can be included in this category. Normally the distribution of kits complements other education activities for example in a YEP or AE programme. If this kit is then replenished as a part of the same programme we do not count this as another beneficiary",
+            "displayShortName": "# NFI kits distributed (EiE)",
+            "displayDescription": "An educational NFI kit is a collection of non-food items (note books, pencils, pens, school bags, registers�) distributed to beneficiaries in a single bundle to support educational objectives. The distribution of student, teacher and director kits can be included in this category. Normally the distribution of kits complements other education activities for example in a YEP or AE programme. If this kit is then replenished as a part of the same programme we do not count this as another beneficiary",
+            "id": "o1w0U7kJgx0"
+          }
+        ]
+      },
+      "fields": [
+        {
+          "label": "GL-E70/E: # of NFI kits distributed (EiE) Teacher Kits",
+          "dataElement": "o1w0U7kJgx0",
+          "categoryOptionCombo": "kJRRp2DnOyH",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E70/E: # of NFI kits distributed (EiE) Student Kits",
+          "dataElement": "o1w0U7kJgx0",
+          "categoryOptionCombo": "M4okt6DErQ0",
+          "type": "INTEGER"
+        },
+        {
+          "label": "GL-E70/E: # of NFI kits distributed (EiE) Other",
+          "dataElement": "o1w0U7kJgx0",
+          "categoryOptionCombo": "LIvpabLAYEH",
+          "type": "INTEGER"
+        }
+      ]
+    }
+  ]
+}
