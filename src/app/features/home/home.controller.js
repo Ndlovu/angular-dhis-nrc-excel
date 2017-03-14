@@ -237,12 +237,6 @@ export default class HomeController {
         this.Custprops = {};
     }
 
-    testGeneration(categories) {
-        if (categories.length > 0) {
-
-        }
-    }
-
     open(insertedRecords) {
         let modalInstance = this.uimodal.open({
             animation: true,
@@ -461,6 +455,8 @@ export default class HomeController {
 
             _.forEach(cats, (category) => {
                 const opts = category.categoryOptions;
+                console.log(opts)
+
                 let total = _.reduce(opts, (sum, n) => {
                     if (!n.colSpan) {
                         n.colSpan = 1;
@@ -517,15 +513,16 @@ export default class HomeController {
 
     processCategories(categories) {
 
+        let boys = [];
         for (let i = 0; i < categories.length; i++) {
-            if (i > 0) {
+            if (i <= 0) {
+                boys = [...categories]
+            } else {
                 let currentOptions = categories[i].categoryOptions;
                 let previousOptions = categories[i - 1].categoryOptions;
                 let currentLength = currentOptions.length;
                 let previousLength = previousOptions.length;
-
                 let current = [];
-
                 for (let j = 0; j < previousLength; j++) {
                     let prev = previousOptions[j];
 
@@ -536,24 +533,27 @@ export default class HomeController {
                         } else {
                             id = prev.id
                         }
-                        current.push(_.merge({combo: id}, currentOptions[k]));
+                        current = [...current, _.merge({combo: id}, currentOptions[k])];
                     }
                 }
 
-                console.log(current);
+                let element = categories[i];
 
-                categories[i].categoryOptions = current;
+                let newObj = Object.assign({}, element, {categoryOptions: current})
+
+                boys = [...categories.slice(0, i), newObj, ...categories.slice(i + 1)]
+
             }
-            if (categories[i + 1]) {
+            if (boys[i + 1]) {
                 let cats = [];
-                _.forEach(categories[i].categoryOptions, (opt) => {
-                    opt.colSpan = categories[i + 1].categoryOptions.length;
+                _.forEach(boys[i].categoryOptions, (opt) => {
+                    opt.colSpan = boys[i + 1].categoryOptions.length;
                     cats.push(opt);
                 });
-                categories[i].categoryOptions = cats;
+                boys[i].categoryOptions = cats;
             }
         }
-        return categories;
+        return boys;
     }
 
     download() {
@@ -569,7 +569,13 @@ export default class HomeController {
             fill: {fgColor: {rgb: "FFFFAA00"}}
         };
 
-        let wb = new this.Workbook();
+        let wb = {
+            SheetNames: [],
+            Sheets: {},
+            Custprops: {}
+        }
+
+        // let wb = {};
 
         /*Custom Properties to written in the excel file*/
         wb.Custprops = {

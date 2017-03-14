@@ -10,11 +10,11 @@ export default function routing($urlRouterProvider, $locationProvider, Restangul
 
     let url = '/dhis/api/';
 
-    if (apiIndex > 1) {
+    /*if (apiIndex > 1) {
         url = '/' + urlArray[apiIndex - 1] + '/api/';
     } else {
         url = '/api/';
-    }
+    }*/
     RestangularProvider.setBaseUrl(url);
     RestangularProvider.setDefaultHeaders({
         "Content-Type": "application/json"
